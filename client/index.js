@@ -1,7 +1,7 @@
 import React from "react";
-import ReactDOM from "react-dom";
+import { render } from "react-dom";
+import { Provider } from "react-redux";
 
-ReactDOM.render(
-  <div>Welcome to the index!</div>,
-  document.getElementById("main")
-);
+import Routes from "./components/Routes";
+
+render(<Routes />, document.getElementById("main"));
