@@ -2,6 +2,8 @@
 
 body {
   background-color: white;
+  margin: 0;
+  padding: 0;
 }
 
 h1 {
@@ -49,4 +51,24 @@ select {
   border-radius: 10px;
   border-color: #ffbf69;
   padding-left: 10px;
+}
+
+.submit-btn {
+  background-color: #2ec4b6;
+  font-size: 30px;
+  font-family: sans-serif;
+  color: white;
+  width: 212px;
+  height: 65px;
+  font-weight: bold;
+  text-align: center;
+  border: 1px solid;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.submit-btn:active {
+  background-color: #27b1a4;
+  color: #ffffff;
+  border: 0;
 }
