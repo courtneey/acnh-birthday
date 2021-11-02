@@ -1,5 +1,4 @@
 const router = require("express").Router();
-const express = require("express");
 const { graphqlHTTP } = require("express-graphql");
 const {
   GraphQLSchema,
