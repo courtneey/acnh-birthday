@@ -21,7 +21,7 @@ const Villager = db.define("villagers", {
     type: Sequelize.STRING,
   },
   birthday: {
-    type: Sequelize.DATEONLY,
+    type: Sequelize.STRING,
   },
   style_one: {
     type: Sequelize.STRING,

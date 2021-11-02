@@ -9,7 +9,7 @@ const {
   GraphQLInt,
   GraphQLNonNull,
 } = require("graphql");
-const { db, Villager, Tops } = require("../db/index");
+const { Villager, Tops } = require("../db/index");
 
 const VillagerType = new GraphQLObjectType({
   name: "Villager",
@@ -26,6 +26,21 @@ const VillagerType = new GraphQLObjectType({
   }),
 });
 
+const TopType = new GraphQLObjectType({
+  name: "Top",
+  description: "This represents a top",
+  fields: () => ({
+    id: { type: GraphQLNonNull(GraphQLInt) },
+    name: { type: GraphQLNonNull(GraphQLString) },
+    imageUrl: { type: GraphQLNonNull(GraphQLString) },
+    variation: { type: GraphQLNonNull(GraphQLString) },
+    style_one: { type: GraphQLNonNull(GraphQLString) },
+    style_two: { type: GraphQLNonNull(GraphQLString) },
+    color_one: { type: GraphQLNonNull(GraphQLString) },
+    color_two: { type: GraphQLNonNull(GraphQLString) },
+  }),
+});
+
 const RootQueryType = new GraphQLObjectType({
   name: "Query",
   description: "Root query",
@@ -34,6 +49,11 @@ const RootQueryType = new GraphQLObjectType({
       type: new GraphQLList(VillagerType),
       description: "A list of villagers",
       resolve: () => Villager.findAll(),
+    },
+    tops: {
+      type: new GraphQLList(TopType),
+      description: "A list of tops",
+      resolve: () => Tops.findAll(),
     },
   }),
 });
