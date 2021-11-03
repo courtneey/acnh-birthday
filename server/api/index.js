@@ -64,7 +64,6 @@ const RootQueryType = new GraphQLObjectType({
             },
           },
         });
-        console.log("villagers by month:", villagers);
         return villagers;
       },
     },
