@@ -29,33 +29,6 @@ class SingleVillager extends Component {
       <div className="villager-and-tops">
         <img src={villager.imageUrl} style={{ width: 150 }} />
         <h2>{villager.name}</h2>
-        {/* <div className="tops-container">
-          <div className="tops-title">
-            <div>tops by color</div>
-            <div>tops by style</div>
-          </div>
-
-          <div className="tops-images">
-            <div className="tops-color">
-              {topsByColor.map((top) => {
-                return (
-                  <span key={top.id}>
-                    <img src={top.imageUrl} />
-                  </span>
-                );
-              })}
-            </div>
-            <div className="tops-style">
-              {topsByStyle.map((top) => {
-                return (
-                  <span key={top.id}>
-                    <img src={top.imageUrl} />
-                  </span>
-                );
-              })}
-            </div>
-          </div>
-        </div> */}
         <div className="tops-outer-container">
           <div className="tops-container">
             <div className="tops-title">
