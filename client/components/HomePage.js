@@ -1,7 +1,4 @@
 import React, { Component } from "react";
-import { connect } from "react-redux";
-import { fetchVillagersByMonth } from "../redux/singleMonth";
-import SingleMonth from "./SingleMonth";
 
 class HomePage extends Component {
   constructor() {
@@ -58,8 +55,4 @@ class HomePage extends Component {
   }
 }
 
-const mapDispatch = (dispatch) => ({
-  fetchVillagers: (month) => dispatch(fetchVillagersByMonth(month)),
-});
-
-export default connect(null, mapDispatch)(HomePage);
+export default HomePage;

@@ -3,7 +3,7 @@ import singleMonthReducer from "./singleMonth";
 import singleVillagerReducer from "./singleVillager";
 
 const appReducer = combineReducers({
-  month: singleMonthReducer,
+  villagersByMonth: singleMonthReducer,
   villager: singleVillagerReducer,
 });
 

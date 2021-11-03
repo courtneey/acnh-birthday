@@ -24,7 +24,7 @@ class SingleMonth extends Component {
 
 const mapState = (state) => {
   return {
-    villagers: state.month,
+    villagers: state.villagersByMonth,
   };
 };
 
