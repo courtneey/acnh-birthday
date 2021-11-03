@@ -14,7 +14,7 @@ export const fetchVillager = (id) => {
     try {
       const query = `
       {
-        topsByColor(id: ${id}) {
+        singleVillager(id: ${id}) {
         id
         name
         imageUrl
@@ -43,7 +43,7 @@ export const fetchVillager = (id) => {
 export default function singleVillagerReducer(state = {}, action) {
   switch (action.type) {
     case SET_VILLAGER:
-      return action.singleVillager;
+      return action.villager;
     default:
       return state;
   }

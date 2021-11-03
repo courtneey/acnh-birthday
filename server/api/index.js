@@ -88,7 +88,7 @@ const RootQueryType = new GraphQLObjectType({
       resolve: async (parent, args) => {
         const tops = await Tops.findAll({
           where: {
-            [Op.or]: [
+            [Op.and]: [
               {
                 style_one: {
                   [Op.eq]: args.style_one,
@@ -116,7 +116,7 @@ const RootQueryType = new GraphQLObjectType({
       resolve: async (parent, args) => {
         const tops = await Tops.findAll({
           where: {
-            [Op.or]: [
+            [Op.and]: [
               {
                 color_one: {
                   [Op.eq]: args.color_one,

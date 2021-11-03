@@ -15,7 +15,7 @@ export const fetchTopsByStyle = (style_one, style_two) => {
     try {
       const query = `
       {
-        topsByStyle(style_one:"${style_one}, style_two:${style_two}") {
+        topsByStyle(style_one:"${style_one}", style_two:"${style_two}") {
         id
         name
         imageUrl
@@ -43,7 +43,7 @@ export const fetchTopsByStyle = (style_one, style_two) => {
 export default function topsByStyleReducer(state = [], action) {
   switch (action.type) {
     case SET_TOPS_BY_STYLE:
-      return action.topsByStyle;
+      return action.tops;
     default:
       return state;
   }

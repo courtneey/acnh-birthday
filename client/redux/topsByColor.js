@@ -15,7 +15,7 @@ export const fetchTopsByColor = (color_one, color_two) => {
     try {
       const query = `
       {
-        topsByColor(color_one:"${color_one}, color_two:${color_two}") {
+        topsByColor(color_one:"${color_one}", color_two:"${color_two}") {
         id
         name
         imageUrl
@@ -43,7 +43,7 @@ export const fetchTopsByColor = (color_one, color_two) => {
 export default function topsByColorReducer(state = [], action) {
   switch (action.type) {
     case SET_TOPS_BY_COLOR:
-      return action.topsByColor;
+      return action.tops;
     default:
       return state;
   }
