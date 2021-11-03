@@ -23,7 +23,8 @@ h2 {
   justify-content: center;
   align-items: center;
   background-color: #cbf3f0;
-  height: 200px;
+  box-shadow: rgb(17 17 26 / 5%) 0px 1px 0px, rgb(17 17 26 / 10%) 0px 0px 8px;
+  height: 150px;
   width: 100%;
 }
 
@@ -78,12 +79,19 @@ select {
   width: 700px;
   height: 300px;
   margin: auto;
+  font-family: sans-serif;
 }
 
 .all-villagers {
-  background-color: burlywood;
+  background-color: white;
+  box-shadow: rgb(17 17 26 / 5%) 0px 1px 0px, rgb(17 17 26 / 10%) 0px 0px 8px;
   display: flex;
   flex-flow: row wrap;
   justify-content: space-evenly;
   gap: 50px;
+}
+
+.single-villager {
+  display: flex;
+  flex-direction: column;
 }

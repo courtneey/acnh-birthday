@@ -19,7 +19,7 @@ class SingleMonth extends Component {
         <div className="all-villagers">
           {villagers.map((villager) => {
             return (
-              <p key={villager.id}>
+              <p key={villager.id} className="single-villager">
                 <img src={villager.imageUrl} />
                 {villager.name}
               </p>
