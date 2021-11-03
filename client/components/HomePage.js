@@ -1,4 +1,7 @@
 import React, { Component } from "react";
+import { connect } from "react-redux";
+import { fetchVillagersByMonth } from "../redux/singleMonth";
+import SingleMonth from "./SingleMonth";
 
 class HomePage extends Component {
   constructor() {
@@ -7,6 +10,7 @@ class HomePage extends Component {
       month: "",
     };
     this.handleChange = this.handleChange.bind(this);
+    this.handleSubmit = this.handleSubmit.bind(this);
   }
 
   handleChange(event) {
@@ -15,14 +19,19 @@ class HomePage extends Component {
     });
   }
 
+  handleSubmit(event) {
+    event.preventDefault();
+    this.props.history.push("/villagers");
+  }
+
   render() {
     const { month } = this.state;
-    const { handleChange } = this;
+    const { handleChange, handleSubmit } = this;
     return (
       <div className="button-div">
         <h2>Select a month:</h2>
 
-        <form id="select-month">
+        <form id="select-month" onSubmit={handleSubmit}>
           <select value={month} onChange={handleChange}>
             <option value="January">January</option>
             <option value="February">February</option>
@@ -49,4 +58,8 @@ class HomePage extends Component {
   }
 }
 
-export default HomePage;
+const mapDispatch = (dispatch) => ({
+  fetchVillagers: (month) => dispatch(fetchVillagersByMonth(month)),
+});
+
+export default connect(null, mapDispatch)(HomePage);
