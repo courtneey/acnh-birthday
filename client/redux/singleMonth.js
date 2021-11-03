@@ -1,47 +1,19 @@
 import axios from "axios";
 import "regenerator-runtime";
 
-const SET_VILLAGERS_BY_MONTH = "SET_VILLAGERS_BY_MONTH";
+const SET_MONTH = "SET_MONTH";
 
-const _setVillagersByMonth = (villagers) => {
+export const _setMonth = (month) => {
   return {
-    type: SET_VILLAGERS_BY_MONTH,
-    villagers,
+    type: SET_MONTH,
+    month,
   };
 };
 
-export const fetchVillagersByMonth = (month) => {
-  return async (dispatch) => {
-    try {
-      const query = `
-      {
-        villagersByMonth(month:"${month}") {
-        id
-        name
-        imageUrl
-        birthday
-        }
-      }
-      `;
-
-      const { data: villagers } = await axios({
-        url: "/api/graphql",
-        method: "post",
-        data: {
-          query,
-        },
-      });
-      dispatch(_setVillagersByMonth(villagers));
-    } catch (err) {
-      console.log("There was an issue with fetching villagers by month: ", err);
-    }
-  };
-};
-
-export default function singleMonthReducer(state = [], action) {
+export default function singleMonthReducer(state = "", action) {
   switch (action.type) {
-    case SET_VILLAGERS_BY_MONTH:
-      return action.villagers;
+    case SET_MONTH:
+      return action.month;
     default:
       return state;
   }

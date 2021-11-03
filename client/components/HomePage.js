@@ -1,4 +1,6 @@
 import React, { Component } from "react";
+import { _setMonth } from "../redux/singleMonth";
+import { connect } from "react-redux";
 
 class HomePage extends Component {
   constructor() {
@@ -18,6 +20,7 @@ class HomePage extends Component {
 
   handleSubmit(event) {
     event.preventDefault();
+    this.props.setMonth(this.state.month);
     this.props.history.push("/villagers");
   }
 
@@ -55,4 +58,10 @@ class HomePage extends Component {
   }
 }
 
-export default HomePage;
+const mapDispatch = (dispatch) => {
+  return {
+    setMonth: (month) => dispatch(_setMonth(month)),
+  };
+};
+
+export default connect(null, mapDispatch)(HomePage);

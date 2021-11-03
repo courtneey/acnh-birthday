@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { connect } from "react-redux";
-import { fetchVillagersByMonth } from "../redux/singleMonth";
+import { fetchVillagersByMonth } from "../redux/allVillagers";
 
 class SingleMonth extends Component {
   constructor(props) {
@@ -8,7 +8,6 @@ class SingleMonth extends Component {
   }
 
   componentDidMount() {
-    console.log("this props:", this.props);
     this.props.fetchVillagers("January");
   }
 
@@ -25,6 +24,7 @@ class SingleMonth extends Component {
 const mapState = (state) => {
   return {
     villagers: state.villagersByMonth,
+    month: state.month,
   };
 };
 
