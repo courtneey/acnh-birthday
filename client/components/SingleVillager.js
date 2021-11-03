@@ -24,8 +24,66 @@ class SingleVillager extends Component {
   }
 
   render() {
-    console.log("this props:", this.props);
-    return <div>Villager and tops will go here</div>;
+    const { villager, topsByColor, topsByStyle } = this.props;
+    return (
+      <div className="villager-and-tops">
+        <img src={villager.imageUrl} style={{ width: 150 }} />
+        <h2>{villager.name}</h2>
+        {/* <table className="tops">
+          <tr>
+            <th>tops by color</th>
+            <th>tops by style</th>
+          </tr>
+          <tr>
+            <td>
+              {topsByColor.map((top) => {
+                return (
+                  <p key={top.id}>
+                    <img src={top.imageUrl} />
+                  </p>
+                );
+              })}
+            </td>
+            <td>
+              {topsByStyle.map((top) => {
+                return (
+                  <p key={top.id}>
+                    <img src={top.imageUrl} />
+                  </p>
+                );
+              })}
+            </td>
+          </tr>
+        </table> */}
+        <div className="tops-container">
+          <div className="tops-title">
+            <div>tops by color</div>
+            <div>tops by style</div>
+          </div>
+
+          <div className="tops-images">
+            <div>
+              {topsByColor.map((top) => {
+                return (
+                  <p key={top.id}>
+                    <img src={top.imageUrl} />
+                  </p>
+                );
+              })}
+            </div>
+            <div>
+              {topsByStyle.map((top) => {
+                return (
+                  <p key={top.id}>
+                    <img src={top.imageUrl} />
+                  </p>
+                );
+              })}
+            </div>
+          </div>
+        </div>
+      </div>
+    );
   }
 }
 

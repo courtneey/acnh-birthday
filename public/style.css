@@ -101,3 +101,48 @@ a {
 a:visited {
   text-decoration: none;
 }
+
+.villager-and-tops {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 80px;
+}
+
+/* .tops {
+  display: flex;
+  flex-direction: row;
+  gap: 100px;
+  align-items: flex-start;
+}
+
+.tops-title {
+  text-align: center;
+}
+
+.tops-color {
+  background-color: white;
+}
+
+.tops-style {
+  background-color: white;
+} */
+
+.tops-container {
+  display: flex;
+  flex-direction: column;
+  width: 800px;
+}
+
+.tops-title {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.tops-images {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
