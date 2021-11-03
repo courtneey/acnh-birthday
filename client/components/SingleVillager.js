@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { connect } from "react-redux";
+import { fetchTopsByColor } from "../redux/topsByColor";
 
 class SingleVillager extends Component {
   constructor(props) {
@@ -11,8 +12,16 @@ class SingleVillager extends Component {
   }
 
   render() {
+    console.log("single villager props:", this.props);
     return <div>Villager and tops will go here</div>;
   }
 }
 
-export default SingleVillager;
+const mapDispatch = (dispatch) => {
+  return {
+    fetchTopsByColor: (color_one, color_two) =>
+      dispatch(fetchTopsByColor(color_one, color_two)),
+  };
+};
+
+export default connect(null, mapDispatch)(SingleVillager);

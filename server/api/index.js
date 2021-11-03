@@ -46,6 +46,16 @@ const RootQueryType = new GraphQLObjectType({
   name: "Query",
   description: "Root query",
   fields: () => ({
+    singleVillager: {
+      type: VillagerType,
+      description: "A single villager retrieved by ID",
+      args: {
+        id: { type: GraphQLInt },
+      },
+      resolve: async (parent, args) => {
+        return await Villager.findByPk(args.id);
+      },
+    },
     villagers: {
       type: new GraphQLList(VillagerType),
       description: "A list of villagers",
