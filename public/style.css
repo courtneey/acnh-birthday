@@ -1,5 +1,3 @@
-@import url("https://fonts.googleapis.com/css2?family=Patua+One&display=swap");
-
 body {
   background-color: white;
   margin: 0;
@@ -8,8 +6,8 @@ body {
 
 h1 {
   color: black;
-  font-family: "Patua One";
-  font-size: 45px;
+  font-family: "system-ui";
+  font-size: 40px;
 }
 
 h2 {
@@ -94,4 +92,12 @@ select {
 .single-villager {
   display: flex;
   flex-direction: column;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
 }

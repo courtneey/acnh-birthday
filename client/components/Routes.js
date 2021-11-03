@@ -2,6 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Route, Link, Switch } from "react-router-dom";
 import HomePage from "./HomePage";
 import SingleMonth from "./SingleMonth";
+import SingleVillager from "./SingleVillager";
 
 const Routes = () => {
   return (
@@ -13,6 +14,7 @@ const Routes = () => {
           </Link>
         </div>
         <Switch>
+          <Route path="/villagers/:id" component={SingleVillager} />
           <Route path="/villagers" component={SingleMonth} />
           <Route exact path="/" component={HomePage} />
         </Switch>

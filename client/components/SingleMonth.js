@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { connect } from "react-redux";
 import { fetchVillagersByMonth } from "../redux/allVillagers";
+import { Link } from "react-router-dom";
 
 class SingleMonth extends Component {
   constructor(props) {
@@ -20,7 +21,9 @@ class SingleMonth extends Component {
           {villagers.map((villager) => {
             return (
               <p key={villager.id} className="single-villager">
-                <img src={villager.imageUrl} />
+                <Link to={`/villagers/${villager.id}`}>
+                  <img src={villager.imageUrl} />
+                </Link>
                 {villager.name}
               </p>
             );
