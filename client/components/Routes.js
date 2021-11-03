@@ -8,7 +8,9 @@ const Routes = () => {
     <Router>
       <main>
         <div className="title-bar">
-          <h1>Animal Crossing Birthday Guide</h1>
+          <Link to="/">
+            <h1>Animal Crossing Birthday Guide</h1>
+          </Link>
         </div>
         <Switch>
           <Route path="/villagers" component={SingleMonth} />

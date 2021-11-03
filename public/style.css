@@ -72,3 +72,18 @@ select {
   color: #ffffff;
   border: 0;
 }
+
+.month-and-villagers {
+  text-align: center;
+  width: 700px;
+  height: 300px;
+  margin: auto;
+}
+
+.all-villagers {
+  background-color: burlywood;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+  gap: 50px;
+}

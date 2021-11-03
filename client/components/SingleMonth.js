@@ -8,14 +8,24 @@ class SingleMonth extends Component {
   }
 
   componentDidMount() {
-    this.props.fetchVillagers("January");
+    this.props.fetchVillagers(this.props.month);
   }
 
   render() {
-    const { villagers } = this.props;
+    const { villagers, month } = this.props;
     return (
-      <div>
-        <h2>Villagers will go here:</h2>
+      <div className="month-and-villagers">
+        <h2>{month}</h2>
+        <div className="all-villagers">
+          {villagers.map((villager) => {
+            return (
+              <p key={villager.id}>
+                <img src={villager.imageUrl} />
+                {villager.name}
+              </p>
+            );
+          })}
+        </div>
       </div>
     );
   }

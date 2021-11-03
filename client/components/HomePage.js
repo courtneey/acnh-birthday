@@ -6,7 +6,7 @@ class HomePage extends Component {
   constructor() {
     super();
     this.state = {
-      month: "",
+      month: "January",
     };
     this.handleChange = this.handleChange.bind(this);
     this.handleSubmit = this.handleSubmit.bind(this);

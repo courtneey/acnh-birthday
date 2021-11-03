@@ -24,14 +24,14 @@ export const fetchVillagersByMonth = (month) => {
       }
       `;
 
-      const { data: villagers } = await axios({
+      const { data } = await axios({
         url: "/api/graphql",
         method: "post",
         data: {
           query,
         },
       });
-      dispatch(_setVillagersByMonth(villagers));
+      dispatch(_setVillagersByMonth(data.data.villagersByMonth));
     } catch (err) {
       console.log("There was an issue with fetching villagers by month: ", err);
     }
