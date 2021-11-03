@@ -110,39 +110,26 @@ a:visited {
   margin-top: 80px;
 }
 
-/* .tops {
-  display: flex;
-  flex-direction: row;
-  gap: 100px;
-  align-items: flex-start;
-}
-
-.tops-title {
-  text-align: center;
-}
-
-.tops-color {
-  background-color: white;
-}
-
-.tops-style {
-  background-color: white;
-} */
-
 .tops-container {
   display: flex;
   flex-direction: column;
-  width: 800px;
+  align-items: center;
+  width: 50%;
+  box-shadow: rgb(17 17 26 / 5%) 0px 1px 0px, rgb(17 17 26 / 10%) 0px 0px 8px;
 }
 
 .tops-title {
+  background-color: #cbf3f0;
+  width: 100%;
+  height: 50px;
   display: flex;
-  flex-direction: row;
-  justify-content: space-around;
+  justify-content: center;
+  align-items: center;
 }
 
-.tops-images {
+.tops-outer-container {
   display: flex;
-  flex-direction: row;
-  justify-content: space-around;
+  width: 1080px;
+  gap: 50px;
+  margin-bottom: 100px;
 }

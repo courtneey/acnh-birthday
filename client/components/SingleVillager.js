@@ -29,54 +29,60 @@ class SingleVillager extends Component {
       <div className="villager-and-tops">
         <img src={villager.imageUrl} style={{ width: 150 }} />
         <h2>{villager.name}</h2>
-        {/* <table className="tops">
-          <tr>
-            <th>tops by color</th>
-            <th>tops by style</th>
-          </tr>
-          <tr>
-            <td>
-              {topsByColor.map((top) => {
-                return (
-                  <p key={top.id}>
-                    <img src={top.imageUrl} />
-                  </p>
-                );
-              })}
-            </td>
-            <td>
-              {topsByStyle.map((top) => {
-                return (
-                  <p key={top.id}>
-                    <img src={top.imageUrl} />
-                  </p>
-                );
-              })}
-            </td>
-          </tr>
-        </table> */}
-        <div className="tops-container">
+        {/* <div className="tops-container">
           <div className="tops-title">
             <div>tops by color</div>
             <div>tops by style</div>
           </div>
 
           <div className="tops-images">
-            <div>
+            <div className="tops-color">
               {topsByColor.map((top) => {
                 return (
-                  <p key={top.id}>
+                  <span key={top.id}>
                     <img src={top.imageUrl} />
-                  </p>
+                  </span>
                 );
               })}
             </div>
+            <div className="tops-style">
+              {topsByStyle.map((top) => {
+                return (
+                  <span key={top.id}>
+                    <img src={top.imageUrl} />
+                  </span>
+                );
+              })}
+            </div>
+          </div>
+        </div> */}
+        <div className="tops-outer-container">
+          <div className="tops-container">
+            <div className="tops-title">
+              Favorite Colors: {villager.color_one} and {villager.color_two}
+            </div>
+
+            <div>
+              {topsByColor.map((top) => {
+                return (
+                  <span key={top.id}>
+                    <img src={top.imageUrl} />
+                  </span>
+                );
+              })}
+            </div>
+          </div>
+          <div className="tops-container">
+            <div className="tops-title">
+              Favorite Styles: {villager.style_one} and {villager.style_two}
+            </div>
+
             <div>
               {topsByStyle.map((top) => {
                 return (
-                  <p key={top.id}>
+                  <span key={top.id}>
                     <img src={top.imageUrl} />
-                  </p>
+                  </span>
                 );
               })}
             </div>
