@@ -9,6 +9,7 @@ const {
   GraphQLNonNull,
 } = require("graphql");
 const { Villager, Tops } = require("../db/index");
+const { Op } = require("sequelize");
 
 const VillagerType = new GraphQLObjectType({
   name: "Villager",
@@ -47,12 +48,30 @@ const RootQueryType = new GraphQLObjectType({
     villagers: {
       type: new GraphQLList(VillagerType),
       description: "A list of villagers",
-      resolve: () => Villager.findAll(),
+      resolve: async () => await Villager.findAll(),
+    },
+    villagersByMonth: {
+      type: new GraphQLList(VillagerType),
+      description: "A list of villagers by birth month",
+      args: {
+        month: { type: GraphQLString },
+      },
+      resolve: async (parent, args) => {
+        const villagers = await Villager.findAll({
+          where: {
+            birthday: {
+              [Op.substring]: `${args.month}`,
+            },
+          },
+        });
+        console.log("villagers by month:", villagers);
+        return villagers;
+      },
     },
     tops: {
       type: new GraphQLList(TopType),
       description: "A list of tops",
-      resolve: () => Tops.findAll(),
+      resolve: async () => await Tops.findAll(),
     },
   }),
 });
