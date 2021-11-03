@@ -34,6 +34,7 @@ const TopType = new GraphQLObjectType({
     name: { type: GraphQLNonNull(GraphQLString) },
     imageUrl: { type: GraphQLNonNull(GraphQLString) },
     variation: { type: GraphQLNonNull(GraphQLString) },
+    price: { type: GraphQLNonNull(GraphQLInt) },
     style_one: { type: GraphQLNonNull(GraphQLString) },
     style_two: { type: GraphQLNonNull(GraphQLString) },
     color_one: { type: GraphQLNonNull(GraphQLString) },
@@ -60,17 +61,68 @@ const RootQueryType = new GraphQLObjectType({
         const villagers = await Villager.findAll({
           where: {
             birthday: {
-              [Op.substring]: `${args.month}`,
+              [Op.substring]: args.month,
             },
           },
         });
         return villagers;
       },
     },
-    tops: {
+    topsByStyle: {
       type: new GraphQLList(TopType),
-      description: "A list of tops",
-      resolve: async () => await Tops.findAll(),
+      description: "A list of tops matching a villager's style preferences",
+      args: {
+        style_one: { type: GraphQLString },
+        style_two: { type: GraphQLString },
+      },
+      resolve: async (parent, args) => {
+        const tops = await Tops.findAll({
+          where: {
+            [Op.or]: [
+              {
+                style_one: {
+                  [Op.eq]: args.style_one,
+                },
+              },
+              {
+                style_two: {
+                  [Op.eq]: args.style_two,
+                },
+              },
+            ],
+          },
+        });
+
+        return tops;
+      },
+    },
+    topsByColor: {
+      type: new GraphQLList(TopType),
+      description: "A list of tops matching a villager's color preferences",
+      args: {
+        color_one: { type: GraphQLString },
+        color_two: { type: GraphQLString },
+      },
+      resolve: async (parent, args) => {
+        const tops = await Tops.findAll({
+          where: {
+            [Op.or]: [
+              {
+                color_one: {
+                  [Op.eq]: args.color_one,
+                },
+              },
+              {
+                color_two: {
+                  [Op.eq]: args.color_two,
+                },
+              },
+            ],
+          },
+        });
+
+        return tops;
+      },
     },
   }),
 });
