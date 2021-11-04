@@ -1,6 +1,8 @@
 import React, { Component } from "react";
 import { connect } from "react-redux";
 import { fetchVillager } from "../redux/singleVillager";
+import Popup from "reactjs-popup";
+import TopsInfo from "./TopsInfo";
 
 class SingleVillager extends Component {
   constructor(props) {
@@ -34,8 +36,14 @@ class SingleVillager extends Component {
                 topsByColor.map((top) => {
                   return (
                     <span key={top.id}>
-                      <img src={top.imageUrl} className="list-item-img" />
-                      {/* <span className="overlay">{top.price}</span> */}
+                      <Popup
+                        trigger={
+                          <img src={top.imageUrl} className="list-item-img" />
+                        }
+                        position="right center"
+                      >
+                        <TopsInfo topColor={top} />
+                      </Popup>
                     </span>
                   );
                 })
@@ -54,8 +62,14 @@ class SingleVillager extends Component {
                 topsByStyle.map((top) => {
                   return (
                     <span key={top.id}>
-                      <img src={top.imageUrl} className="list-item-img" />
-                      {/* <span className="overlay">{top.price}</span> */}
+                      <Popup
+                        trigger={
+                          <img src={top.imageUrl} className="list-item-img" />
+                        }
+                        position="right center"
+                      >
+                        <TopsInfo topStyle={top} />
+                      </Popup>
                     </span>
                   );
                 })

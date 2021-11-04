@@ -30,6 +30,8 @@ export const fetchVillager = (id) => {
             price
             style_one
             style_two
+            source
+            season
           }
           fave_tops_color {
             id
@@ -38,6 +40,8 @@ export const fetchVillager = (id) => {
             price
             color_one
             color_two
+            source
+            season
           }
         }
       }

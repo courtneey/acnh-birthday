@@ -161,18 +161,6 @@ a:visited {
   margin-top: 50px;
 }
 
-.overlay {
-  position: absolute;
-  font-size: 28px;
-  background-color: white;
-  border-radius: 3px;
-  z-index: 1;
-  margin-left: -95px;
-  margin-top: 40px;
-  width: 60px;
-  padding: 2px;
-}
-
 .villager-name {
   background-color: white;
   padding: 0px 25px 0px 25px;
@@ -212,4 +200,49 @@ p {
   color: #6b5c43;
   font-weight: 500;
   margin-top: -10px;
+}
+
+.popup-content {
+  margin: auto;
+  background: rgb(255, 255, 255);
+  font-family: "system-ui";
+}
+.popup-arrow {
+  color: rgb(255, 255, 255);
+}
+[role="tooltip"].popup-content {
+  width: 400px;
+  height: 400px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 0px 3px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  padding: 40px 20px 40px 20px;
+  background-color: white;
+  border: 25px solid #f1e26f;
+}
+
+.popup-overlay {
+  background: rgba(0, 0, 0, 0.5);
+}
+[data-popup="tooltip"].popup-overlay {
+  background: transparent;
+}
+
+.tops-popup-info {
+  color: #6b5c43;
+  font-weight: 500;
+  font-size: 22px;
+}
+
+.tops-description {
+  width: 345px;
+  height: 170px;
+  background-color: #f6f6f6;
+  border-radius: 5px;
+  padding: 20px;
+  color: black;
+  font-size: 18px;
+  text-align: initial;
 }

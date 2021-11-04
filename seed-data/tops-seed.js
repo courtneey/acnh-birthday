@@ -10,6 +10,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "White",
+    source: "Nook Shopping Daily Selection",
+    season: "All Year",
   },
   {
     name: "acid-washed jacket",
@@ -20,6 +22,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Black",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "acid-washed jacket",
@@ -30,6 +34,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "after-school jacket",
@@ -40,6 +46,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Black",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "after-school jacket",
@@ -50,6 +58,8 @@ const tops = [
     style_two: "Cool",
     color_one: "White",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "after-school jacket",
@@ -60,6 +70,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Gray",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "after-school jacket",
@@ -70,6 +82,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Red",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "after-school jacket",
@@ -80,6 +94,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Green",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "after-school jacket",
@@ -90,6 +106,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Blue",
     color_two: "Purple",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "after-school jacket",
@@ -100,6 +118,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Purple",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "animal-print coat",
@@ -110,6 +130,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Pink",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "animal-print coat",
@@ -120,6 +142,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Green",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "animal-print coat",
@@ -130,6 +154,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Blue",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "animal-print coat",
@@ -140,6 +166,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Purple",
     color_two: "Purple",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "animal-stripes tee",
@@ -150,6 +178,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Gray",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "animal-stripes tee",
@@ -160,6 +190,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Yellow",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "annyeong tee",
@@ -170,6 +202,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Aqua",
     color_two: "White",
+    source: "Nook Shopping Daily Selection",
+    season: "All Year",
   },
   {
     name: "anorak jacket",
@@ -180,6 +214,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Red",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "anorak jacket",
@@ -190,6 +226,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "anorak jacket",
@@ -200,6 +238,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Beige",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "apron",
@@ -210,6 +250,8 @@ const tops = [
     style_two: "Active",
     color_one: "Gray",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "apron",
@@ -220,6 +262,8 @@ const tops = [
     style_two: "Active",
     color_one: "Pink",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "apron",
@@ -230,6 +274,8 @@ const tops = [
     style_two: "Active",
     color_one: "Orange",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "apron",
@@ -240,6 +286,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "apron",
@@ -250,6 +298,8 @@ const tops = [
     style_two: "Active",
     color_one: "Aqua",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "apron",
@@ -260,6 +310,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "apron",
@@ -270,6 +322,8 @@ const tops = [
     style_two: "Active",
     color_one: "Purple",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "apron",
@@ -280,6 +334,8 @@ const tops = [
     style_two: "Active",
     color_one: "Brown",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "Aran-knit cardigan",
@@ -290,6 +346,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Pink",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "Aran-knit cardigan",
@@ -300,6 +358,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Yellow",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "Aran-knit cardigan",
@@ -310,6 +370,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Aqua",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "Aran-knit cardigan",
@@ -320,6 +382,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Beige",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "Aran-knit sweater",
@@ -330,6 +394,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "White",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "Aran-knit sweater",
@@ -340,6 +406,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Gray",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "Aran-knit sweater",
@@ -350,6 +418,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Black",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "Aran-knit sweater",
@@ -360,6 +430,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Red",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "Aran-knit sweater",
@@ -370,6 +442,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Orange",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "Aran-knit sweater",
@@ -380,6 +454,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Green",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "Aran-knit sweater",
@@ -390,6 +466,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "argyle sweater",
@@ -400,6 +478,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "White",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "argyle sweater",
@@ -410,6 +490,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Gray",
     color_two: "Purple",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "argyle sweater",
@@ -420,6 +502,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Black",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "argyle sweater",
@@ -430,6 +514,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Red",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "argyle sweater",
@@ -440,6 +526,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Pink",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "argyle sweater",
@@ -450,6 +538,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Yellow",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "argyle sweater",
@@ -460,6 +550,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Green",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "argyle sweater",
@@ -470,6 +562,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Purple",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "argyle vest",
@@ -480,6 +574,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Gray",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "argyle vest",
@@ -490,6 +586,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Red",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "argyle vest",
@@ -500,6 +598,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Pink",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "argyle vest",
@@ -510,6 +610,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "argyle vest",
@@ -520,6 +622,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Blue",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "argyle vest",
@@ -530,6 +634,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Brown",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "athletic jacket",
@@ -540,6 +646,8 @@ const tops = [
     style_two: "Active",
     color_one: "Black",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "athletic jacket",
@@ -550,6 +658,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "athletic jacket",
@@ -560,6 +670,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "athletic jacket",
@@ -570,6 +682,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "athletic jacket",
@@ -580,6 +694,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "athletic jacket",
@@ -590,6 +706,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "baggy shirt",
@@ -600,6 +718,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Gray",
     color_two: "Gray",
+    source: "Recycle box",
+    season: "All Year",
   },
   {
     name: "baggy shirt",
@@ -610,6 +730,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Black",
     color_two: "Black",
+    source: "Recycle box",
+    season: "All Year",
   },
   {
     name: "baggy shirt",
@@ -620,6 +742,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Brown",
     color_two: "Brown",
+    source: "Recycle box",
+    season: "All Year",
   },
   {
     name: "baseball shirt",
@@ -630,6 +754,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "baseball shirt",
@@ -640,6 +766,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Gray",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "baseball shirt",
@@ -650,6 +778,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Black",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "baseball shirt",
@@ -660,6 +790,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Red",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "baseball shirt",
@@ -670,6 +802,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Yellow",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "baseball shirt",
@@ -680,6 +814,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "basketball tank",
@@ -690,6 +826,8 @@ const tops = [
     style_two: "Active",
     color_one: "Black",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "basketball tank",
@@ -700,6 +838,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "basketball tank",
@@ -710,6 +850,8 @@ const tops = [
     style_two: "Active",
     color_one: "Orange",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "basketball tank",
@@ -720,6 +862,8 @@ const tops = [
     style_two: "Active",
     color_one: "Yellow",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "basketball tank",
@@ -730,6 +874,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "basketball tank",
@@ -740,6 +886,8 @@ const tops = [
     style_two: "Active",
     color_one: "Aqua",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "basketball tank",
@@ -750,6 +898,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "basketball tank",
@@ -760,6 +910,8 @@ const tops = [
     style_two: "Active",
     color_one: "Purple",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "bear tee",
@@ -770,6 +922,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Green",
     color_two: "Brown",
+    source: "Nook Shopping Daily Selection",
+    season: "All Year",
   },
   {
     name: "big-star tee",
@@ -780,6 +934,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "Yellow",
+    source: "Nook Shopping Daily Selection",
+    season: "All Year",
   },
   {
     name: "biker jacket",
@@ -790,6 +946,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Black",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "biker jacket",
@@ -800,6 +958,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Red",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "biker jacket",
@@ -810,6 +970,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Yellow",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "biker jacket",
@@ -820,6 +982,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "biker jacket",
@@ -830,6 +994,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Brown",
     color_two: "Brown",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "biker jacket",
@@ -840,6 +1006,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Beige",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "blossom tee",
@@ -850,6 +1018,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Pink",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "blossom tee",
@@ -860,6 +1030,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Yellow",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "blossom tee",
@@ -870,6 +1042,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "blossom tee",
@@ -880,6 +1054,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Aqua",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "blossom tee",
@@ -890,6 +1066,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Purple",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "boa blouson",
@@ -900,6 +1078,8 @@ const tops = [
     style_two: "Cute",
     color_one: "White",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "boa blouson",
@@ -910,6 +1090,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Blue",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "boa blouson",
@@ -920,6 +1102,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Purple",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "boa blouson",
@@ -930,6 +1114,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Beige",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "boa fleece",
@@ -940,6 +1126,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "boa fleece",
@@ -950,6 +1138,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Pink",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "boa fleece",
@@ -960,6 +1150,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Yellow",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "boa fleece",
@@ -970,6 +1162,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "boa fleece",
@@ -980,6 +1174,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "boa fleece",
@@ -990,6 +1186,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "boa fleece",
@@ -1000,6 +1198,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "boa fleece",
@@ -1010,6 +1210,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Beige",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "bold aloha shirt",
@@ -1020,6 +1222,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Pink",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "bold aloha shirt",
@@ -1030,6 +1234,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Blue",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "bomber-style jacket",
@@ -1040,6 +1246,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Black",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "bomber-style jacket",
@@ -1050,6 +1258,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Green",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "bomber-style jacket",
@@ -1060,6 +1270,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "bomber-style jacket",
@@ -1070,6 +1282,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Brown",
     color_two: "Brown",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "bone tee",
@@ -1080,6 +1294,8 @@ const tops = [
     style_two: "Active",
     color_one: "Yellow",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "bonjour tee",
@@ -1090,6 +1306,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "Red",
+    source: "Nook Shopping Daily Selection",
+    season: "All Year",
   },
   {
     name: "botanical tee",
@@ -1100,6 +1318,8 @@ const tops = [
     style_two: "Active",
     color_one: "White",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "botanical tee",
@@ -1110,6 +1330,8 @@ const tops = [
     style_two: "Active",
     color_one: "Black",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "bowling shirt",
@@ -1120,6 +1342,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Red",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "bowling shirt",
@@ -1130,6 +1354,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Orange",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "bowling shirt",
@@ -1140,6 +1366,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Yellow",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "bowling shirt",
@@ -1150,6 +1378,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Green",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "bowling shirt",
@@ -1160,6 +1390,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Aqua",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "bowling shirt",
@@ -1170,6 +1402,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Blue",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "bowling shirt",
@@ -1180,6 +1414,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Purple",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "bowling shirt",
@@ -1190,6 +1426,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Beige",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "bug aloha shirt",
@@ -1200,6 +1438,8 @@ const tops = [
     style_two: "Active",
     color_one: "Black",
     color_two: "Red",
+    source: "Flick",
+    season: "All Year",
   },
   {
     name: "bulldog jacket",
@@ -1210,6 +1450,8 @@ const tops = [
     style_two: "Cool",
     color_one: "White",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "bulldog jacket",
@@ -1220,6 +1462,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Black",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "bulldog jacket",
@@ -1230,6 +1474,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Red",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "business suitcoat",
@@ -1240,6 +1486,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Gray",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "business suitcoat",
@@ -1250,6 +1498,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Black",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "business suitcoat",
@@ -1260,6 +1510,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Red",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "business suitcoat",
@@ -1270,6 +1522,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Aqua",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "business suitcoat",
@@ -1280,6 +1534,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "café uniform",
@@ -1290,6 +1546,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Black",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "café uniform",
@@ -1300,6 +1558,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Red",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "café uniform",
@@ -1310,6 +1570,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "café uniform",
@@ -1320,6 +1582,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Brown",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "camo bomber-style jacket",
@@ -1330,6 +1594,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Green",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "camo bomber-style jacket",
@@ -1340,6 +1606,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Gray",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "camo bomber-style jacket",
@@ -1350,6 +1618,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Purple",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "camo tee",
@@ -1360,6 +1630,8 @@ const tops = [
     style_two: "Active",
     color_one: "Brown",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "camo tee",
@@ -1370,6 +1642,8 @@ const tops = [
     style_two: "Active",
     color_one: "Gray",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "camo tee",
@@ -1380,6 +1654,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "camo tee",
@@ -1390,6 +1666,8 @@ const tops = [
     style_two: "Active",
     color_one: "Pink",
     color_two: "Brown",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "camo tee",
@@ -1400,6 +1678,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "camo tee",
@@ -1410,6 +1690,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "camo tee",
@@ -1420,6 +1702,8 @@ const tops = [
     style_two: "Active",
     color_one: "Purple",
     color_two: "Purple",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "camper tee",
@@ -1430,6 +1714,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "Green",
+    source: "Nook Shopping Promotion",
+    season: "All Year",
   },
   {
     name: "cardigan-shirt combo",
@@ -1440,6 +1726,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Gray",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "cardigan-shirt combo",
@@ -1450,6 +1738,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Black",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "cardigan-shirt combo",
@@ -1460,6 +1750,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Pink",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "cardigan-shirt combo",
@@ -1470,6 +1762,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Yellow",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "cardigan-shirt combo",
@@ -1480,6 +1774,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "cardigan-shirt combo",
@@ -1490,6 +1786,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "career jacket",
@@ -1500,6 +1798,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Gray",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "career jacket",
@@ -1510,6 +1810,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Red",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "career jacket",
@@ -1520,6 +1822,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Pink",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "career jacket",
@@ -1530,6 +1834,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Pink",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "career jacket",
@@ -1540,6 +1846,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Green",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "career jacket",
@@ -1550,6 +1858,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Aqua",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "career jacket",
@@ -1560,6 +1870,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Blue",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "career jacket",
@@ -1570,6 +1882,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Beige",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "cavalier shirt",
@@ -1580,6 +1894,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Red",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "cavalier shirt",
@@ -1590,6 +1906,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Green",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "cavalier shirt",
@@ -1600,6 +1918,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Blue",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "checkered chesterfield coat",
@@ -1610,6 +1930,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Gray",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "checkered chesterfield coat",
@@ -1621,6 +1943,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "checkered chesterfield coat",
@@ -1631,6 +1955,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Aqua",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "checkered chesterfield coat",
@@ -1642,6 +1968,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Brown",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "checkered muffler",
@@ -1652,6 +1980,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "White",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "checkered muffler",
@@ -1662,6 +1992,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Gray",
     color_two: "Brown",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "checkered muffler",
@@ -1672,6 +2004,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Brown",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "checkered muffler",
@@ -1682,6 +2016,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Beige",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "chef's outfit",
@@ -1692,6 +2028,8 @@ const tops = [
     style_two: "Active",
     color_one: "White",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "chef's outfit",
@@ -1702,6 +2040,8 @@ const tops = [
     style_two: "Active",
     color_one: "White",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "chef's outfit",
@@ -1712,6 +2052,8 @@ const tops = [
     style_two: "Active",
     color_one: "White",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "chef's outfit",
@@ -1722,6 +2064,8 @@ const tops = [
     style_two: "Active",
     color_one: "White",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "chef's outfit",
@@ -1732,6 +2076,8 @@ const tops = [
     style_two: "Active",
     color_one: "White",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "chef's outfit",
@@ -1742,6 +2088,8 @@ const tops = [
     style_two: "Active",
     color_one: "White",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "chef's outfit",
@@ -1752,6 +2100,8 @@ const tops = [
     style_two: "Active",
     color_one: "White",
     color_two: "Brown",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "chesterfield coat",
@@ -1762,6 +2112,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Gray",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "chesterfield coat",
@@ -1772,6 +2124,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Black",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "chesterfield coat",
@@ -1782,6 +2136,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Brown",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "chesterfield coat",
@@ -1792,6 +2148,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Beige",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "chick tee",
@@ -1802,6 +2160,8 @@ const tops = [
     style_two: "Cute",
     color_one: "White",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "Chimayo vest",
@@ -1812,6 +2172,8 @@ const tops = [
     style_two: "Cool",
     color_one: "White",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "Chimayo vest",
@@ -1822,6 +2184,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Red",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "Chimayo vest",
@@ -1832,6 +2196,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Aqua",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "Chimayo vest",
@@ -1842,6 +2208,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Blue",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "ciao tee",
@@ -1852,6 +2220,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Red",
     color_two: "White",
+    source: "Nook Shopping Daily Selection",
+    season: "All Year",
   },
   {
     name: "Cinnamoroll jacket",
@@ -1862,6 +2232,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Aqua",
     color_two: "Red",
+    source: "Nook Shopping Promotion",
+    season: "All Year",
   },
   {
     name: "Cinnamoroll puffy blouse",
@@ -1872,6 +2244,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Aqua",
     color_two: "White",
+    source: "Nook Shopping Promotion",
+    season: "All Year",
   },
   {
     name: "coatigan",
@@ -1882,6 +2256,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Gray",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "coatigan",
@@ -1892,6 +2268,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Pink",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "coatigan",
@@ -1902,6 +2280,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "coatigan",
@@ -1912,6 +2292,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Aqua",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "coatigan",
@@ -1922,6 +2304,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Purple",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "collarless coat",
@@ -1932,6 +2316,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Gray",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "collarless coat",
@@ -1942,6 +2328,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Pink",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "collarless coat",
@@ -1952,6 +2340,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Beige",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "collarless shirt",
@@ -1962,6 +2352,8 @@ const tops = [
     style_two: "Cool",
     color_one: "White",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "collarless shirt",
@@ -1972,6 +2364,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Black",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "college cardigan",
@@ -1982,6 +2376,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "college cardigan",
@@ -1992,6 +2388,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Gray",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "college cardigan",
@@ -2002,6 +2400,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Red",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "college cardigan",
@@ -2012,6 +2412,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Orange",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "college cardigan",
@@ -2022,6 +2424,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "color-block dress shirt",
@@ -2032,6 +2436,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Gray",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "color-block dress shirt",
@@ -2042,6 +2448,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Red",
     color_two: "Brown",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "color-block dress shirt",
@@ -2052,6 +2460,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Pink",
     color_two: "Purple",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "color-block dress shirt",
@@ -2062,6 +2472,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Yellow",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "color-block dress shirt",
@@ -2072,6 +2484,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "color-block dress shirt",
@@ -2082,6 +2496,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Aqua",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "colorful striped sweater",
@@ -2093,6 +2509,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "colorful striped sweater",
@@ -2104,6 +2522,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "colorful striped sweater",
@@ -2115,6 +2535,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Gray",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "colorful striped sweater",
@@ -2126,6 +2548,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Pink",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "colorful striped sweater",
@@ -2137,6 +2561,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "colorful striped sweater",
@@ -2148,6 +2574,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Brown",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "comedian's outfit",
@@ -2158,6 +2586,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "White",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "comedian's outfit",
@@ -2168,6 +2598,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Red",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "comedian's outfit",
@@ -2178,6 +2610,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Orange",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "comedian's outfit",
@@ -2188,6 +2622,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Yellow",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "comedian's outfit",
@@ -2198,6 +2634,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Green",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "comedian's outfit",
@@ -2208,6 +2646,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Green",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "comedian's outfit",
@@ -2218,6 +2658,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Blue",
     color_two: "Purple",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "comedian's outfit",
@@ -2228,6 +2670,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Purple",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "coral Nook Inc. aloha shirt",
@@ -2238,6 +2682,8 @@ const tops = [
     style_two: "Active",
     color_one: "Pink",
     color_two: "White",
+    source: "Nook Miles Redemption",
+    season: "All Year",
   },
   {
     name: "coverall coat",
@@ -2248,6 +2694,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "Brown",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "coverall coat",
@@ -2258,6 +2706,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "coverall coat",
@@ -2268,6 +2718,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "coverall coat",
@@ -2278,6 +2730,8 @@ const tops = [
     style_two: "Active",
     color_one: "Beige",
     color_two: "Brown",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "cowboy shirt",
@@ -2288,6 +2742,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "Brown",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "cowboy shirt",
@@ -2298,6 +2754,8 @@ const tops = [
     style_two: "Active",
     color_one: "Orange",
     color_two: "Brown",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "cowboy shirt",
@@ -2308,6 +2766,8 @@ const tops = [
     style_two: "Active",
     color_one: "Aqua",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "cowboy shirt",
@@ -2318,6 +2778,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "cowboy shirt",
@@ -2328,6 +2790,8 @@ const tops = [
     style_two: "Active",
     color_one: "Beige",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "cycling shirt",
@@ -2338,6 +2802,8 @@ const tops = [
     style_two: "Active",
     color_one: "White",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "cycling shirt",
@@ -2348,6 +2814,8 @@ const tops = [
     style_two: "Active",
     color_one: "Black",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "cycling shirt",
@@ -2358,6 +2826,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "cycling shirt",
@@ -2368,6 +2838,8 @@ const tops = [
     style_two: "Active",
     color_one: "Pink",
     color_two: "Purple",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "cycling shirt",
@@ -2378,6 +2850,8 @@ const tops = [
     style_two: "Active",
     color_one: "Orange",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "cycling shirt",
@@ -2388,6 +2862,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "cycling shirt",
@@ -2398,6 +2874,8 @@ const tops = [
     style_two: "Active",
     color_one: "Aqua",
     color_two: "Purple",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "cycling shirt",
@@ -2408,6 +2886,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "DAL apron",
@@ -2418,6 +2898,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "White",
+    source: "Dodo Airlines",
+    season: "All Year",
   },
   {
     name: "DAL pilot jacket",
@@ -2428,6 +2910,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Green",
     color_two: "Green",
+    source: "Dodo Airlines",
+    season: "All Year",
   },
   {
     name: "DAL tee",
@@ -2438,6 +2922,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "White",
+    source: "Dodo Airlines",
+    season: "All Year",
   },
   {
     name: "dance-team jacket",
@@ -2448,6 +2934,8 @@ const tops = [
     style_two: "Cool",
     color_one: "White",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "dance-team jacket",
@@ -2458,6 +2946,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Black",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "dance-team jacket",
@@ -2468,6 +2958,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Red",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "dance-team jacket",
@@ -2478,6 +2970,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Purple",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "danger tank",
@@ -2488,6 +2982,8 @@ const tops = [
     style_two: "Active",
     color_one: "Yellow",
     color_two: "Black",
+    source: "Nook Shopping Daily Selection",
+    season: "Summer",
   },
   {
     name: "denim jacket",
@@ -2498,6 +2994,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "denim jacket",
@@ -2508,6 +3006,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "denim jacket",
@@ -2518,6 +3018,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Black",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "denim jacket",
@@ -2528,6 +3030,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Aqua",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "denim jacket",
@@ -2538,6 +3042,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "denim vest",
@@ -2548,6 +3054,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Blue",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "denim vest",
@@ -2558,6 +3066,8 @@ const tops = [
     style_two: "Cool",
     color_one: "White",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "denim vest",
@@ -2568,6 +3078,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Black",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "denim vest",
@@ -2578,6 +3090,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Aqua",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "denim vest",
@@ -2588,6 +3102,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Blue",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "detective's coat",
@@ -2598,6 +3114,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Gray",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "detective's coat",
@@ -2608,6 +3126,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Brown",
     color_two: "Brown",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "detective's coat",
@@ -2618,6 +3138,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Beige",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "diner apron",
@@ -2628,6 +3150,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Black",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "diner apron",
@@ -2638,6 +3162,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Red",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "diner apron",
@@ -2648,6 +3174,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Pink",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "diner apron",
@@ -2658,6 +3186,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Yellow",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "diner apron",
@@ -2668,6 +3198,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "diner apron",
@@ -2678,6 +3210,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Blue",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "diner apron",
@@ -2688,6 +3222,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Beige",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "doctor's coat",
@@ -2698,6 +3234,8 @@ const tops = [
     style_two: "Cool",
     color_one: "White",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "doctor's coat",
@@ -2708,6 +3246,8 @@ const tops = [
     style_two: "Cool",
     color_one: "White",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "dolly shirt",
@@ -2718,6 +3258,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Pink",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "dolly shirt",
@@ -2728,6 +3270,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Yellow",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "dolly shirt",
@@ -2738,6 +3282,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Aqua",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "dolly shirt",
@@ -2748,6 +3294,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Purple",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "dotted raincoat",
@@ -2758,6 +3306,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Gray",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "dotted raincoat",
@@ -2768,6 +3318,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Pink",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "dotted raincoat",
@@ -2778,6 +3330,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "dotted raincoat",
@@ -2788,6 +3342,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Aqua",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "dotted raincoat",
@@ -2798,6 +3354,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Aqua",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "dotted raincoat",
@@ -2808,6 +3366,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "doublet",
@@ -2818,6 +3378,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Black",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "doublet",
@@ -2828,6 +3390,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Red",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "doublet",
@@ -2838,6 +3402,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "doublet",
@@ -2848,6 +3414,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Blue",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "down jacket",
@@ -2858,6 +3426,8 @@ const tops = [
     style_two: "Active",
     color_one: "White",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "down jacket",
@@ -2868,6 +3438,8 @@ const tops = [
     style_two: "Active",
     color_one: "Black",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "down jacket",
@@ -2878,6 +3450,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "down jacket",
@@ -2888,6 +3462,8 @@ const tops = [
     style_two: "Active",
     color_one: "Orange",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "down jacket",
@@ -2898,6 +3474,8 @@ const tops = [
     style_two: "Active",
     color_one: "Yellow",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "down jacket",
@@ -2908,6 +3486,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "down jacket",
@@ -2918,6 +3498,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "down jacket",
@@ -2928,6 +3510,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "down ski jacket",
@@ -2938,6 +3522,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "down ski jacket",
@@ -2948,6 +3534,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "down ski jacket",
@@ -2958,6 +3546,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "down ski jacket",
@@ -2968,6 +3558,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "dragon jacket",
@@ -2978,6 +3570,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Black",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "dreamy sweater",
@@ -2988,6 +3582,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Pink",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "dreamy sweater",
@@ -2998,6 +3594,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Blue",
     color_two: "Purple",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "dress shirt",
@@ -3008,6 +3606,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "dress shirt",
@@ -3018,6 +3618,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Gray",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "dress shirt",
@@ -3028,6 +3630,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Pink",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "dress shirt",
@@ -3038,6 +3642,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "dress shirt",
@@ -3048,6 +3654,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "earbuds combo",
@@ -3058,6 +3666,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Yellow",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "earbuds combo",
@@ -3068,6 +3678,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "earbuds combo",
@@ -3078,6 +3690,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "earbuds combo",
@@ -3088,6 +3702,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Brown",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "eight-ball tee",
@@ -3098,6 +3714,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Black",
     color_two: "White",
+    source: "Nook Shopping Daily Selection",
+    season: "All Year",
   },
   {
     name: "emblem blazer",
@@ -3108,6 +3726,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Red",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "emblem blazer",
@@ -3118,6 +3738,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Green",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "emblem blazer",
@@ -3128,6 +3750,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "emblem blazer",
@@ -3138,6 +3762,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Brown",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "embroidered tank",
@@ -3148,6 +3774,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "embroidered tank",
@@ -3158,6 +3786,8 @@ const tops = [
     style_two: "Active",
     color_one: "Pink",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "embroidered tank",
@@ -3168,6 +3798,8 @@ const tops = [
     style_two: "Active",
     color_one: "Orange",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "embroidered tank",
@@ -3178,6 +3810,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "embroidered tank",
@@ -3188,6 +3822,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "embroidered tank",
@@ -3198,6 +3834,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "embroidered tank",
@@ -3208,6 +3846,8 @@ const tops = [
     style_two: "Active",
     color_one: "Purple",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "energetic sweater",
@@ -3218,6 +3858,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Pink",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "energetic sweater",
@@ -3228,6 +3870,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Yellow",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "energetic sweater",
@@ -3238,6 +3882,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Aqua",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "energetic sweater",
@@ -3248,6 +3894,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Purple",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "explorer shirt",
@@ -3258,6 +3906,8 @@ const tops = [
     style_two: "Active",
     color_one: "Gray",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "explorer shirt",
@@ -3268,6 +3918,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "explorer shirt",
@@ -3278,6 +3930,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "explorer shirt",
@@ -3288,6 +3942,8 @@ const tops = [
     style_two: "Active",
     color_one: "Beige",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "faux-hair sweater",
@@ -3298,6 +3954,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "faux-hair sweater",
@@ -3308,6 +3966,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Red",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "faux-shearling coat",
@@ -3318,6 +3978,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Gray",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "faux-shearling coat",
@@ -3328,6 +3990,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Black",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "faux-shearling coat",
@@ -3338,6 +4002,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Pink",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "faux-shearling coat",
@@ -3348,6 +4014,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "faux-shearling coat",
@@ -3358,6 +4026,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Beige",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "fischerhemd",
@@ -3368,6 +4038,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "fish-print tee",
@@ -3378,6 +4050,8 @@ const tops = [
     style_two: "Active",
     color_one: "Beige",
     color_two: "Yellow",
+    source: "C.J.",
+    season: "All Year",
   },
   {
     name: "fishing vest",
@@ -3388,6 +4062,8 @@ const tops = [
     style_two: "Active",
     color_one: "Black",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "fishing vest",
@@ -3398,6 +4074,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "fishing vest",
@@ -3408,6 +4086,8 @@ const tops = [
     style_two: "Active",
     color_one: "Pink",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "fishing vest",
@@ -3418,6 +4098,8 @@ const tops = [
     style_two: "Active",
     color_one: "Orange",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "fishing vest",
@@ -3428,6 +4110,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "fishing vest",
@@ -3438,6 +4122,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "fishing vest",
@@ -3448,6 +4134,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "fishing vest",
@@ -3458,6 +4146,8 @@ const tops = [
     style_two: "Active",
     color_one: "Purple",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "fitness tank",
@@ -3468,6 +4158,8 @@ const tops = [
     style_two: "Active",
     color_one: "Black",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "fitness tank",
@@ -3478,6 +4170,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "fitness tank",
@@ -3488,6 +4182,8 @@ const tops = [
     style_two: "Active",
     color_one: "Pink",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "fitness tank",
@@ -3498,6 +4194,8 @@ const tops = [
     style_two: "Active",
     color_one: "Orange",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "fitness tank",
@@ -3508,6 +4206,8 @@ const tops = [
     style_two: "Active",
     color_one: "Yellow",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "fitness tank",
@@ -3518,6 +4218,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "fitness tank",
@@ -3528,6 +4230,8 @@ const tops = [
     style_two: "Active",
     color_one: "Aqua",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "fitness tank",
@@ -3538,6 +4242,8 @@ const tops = [
     style_two: "Active",
     color_one: "Purple",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "five-ball tee",
@@ -3548,6 +4254,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Orange",
     color_two: "White",
+    source: "Nook Shopping Daily Selection",
+    season: "All Year",
   },
   {
     name: "flame tee",
@@ -3558,6 +4266,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "flannel shirt",
@@ -3568,6 +4278,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Red",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "flannel shirt",
@@ -3578,6 +4290,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "flannel shirt",
@@ -3588,6 +4302,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "flannel shirt",
@@ -3598,6 +4314,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Purple",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "flannel shirt",
@@ -3608,6 +4326,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Beige",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "flashy cardigan",
@@ -3618,6 +4338,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Red",
     color_two: "Colorful",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "flashy cardigan",
@@ -3628,6 +4350,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Blue",
     color_two: "Colorful",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "flashy jacket",
@@ -3638,6 +4362,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "White",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "flashy jacket",
@@ -3648,6 +4374,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Black",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "flashy jacket",
@@ -3658,6 +4386,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Red",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "flashy jacket",
@@ -3668,6 +4398,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Yellow",
     color_two: "Purple",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "flashy jacket",
@@ -3678,6 +4410,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Green",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "flashy jacket",
@@ -3688,6 +4422,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Purple",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "flight jacket",
@@ -3698,6 +4434,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Black",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "flight jacket",
@@ -3708,6 +4446,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Green",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "flight jacket",
@@ -3718,6 +4458,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Brown",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "flower sweater",
@@ -3728,6 +4470,8 @@ const tops = [
     style_two: "Cute",
     color_one: "White",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "flower sweater",
@@ -3738,6 +4482,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Red",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "flower sweater",
@@ -3748,6 +4494,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Yellow",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "flower sweater",
@@ -3758,6 +4506,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Green",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "folk shirt",
@@ -3768,6 +4518,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "folk shirt",
@@ -3778,6 +4530,8 @@ const tops = [
     style_two: "Active",
     color_one: "Aqua",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "folk shirt",
@@ -3788,6 +4542,8 @@ const tops = [
     style_two: "Active",
     color_one: "Brown",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "football shirt",
@@ -3798,6 +4554,8 @@ const tops = [
     style_two: "Active",
     color_one: "White",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "football shirt",
@@ -3808,6 +4566,8 @@ const tops = [
     style_two: "Active",
     color_one: "Black",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "football shirt",
@@ -3818,6 +4578,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "football shirt",
@@ -3828,6 +4590,8 @@ const tops = [
     style_two: "Active",
     color_one: "Orange",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "football shirt",
@@ -3838,6 +4602,8 @@ const tops = [
     style_two: "Active",
     color_one: "Yellow",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "football shirt",
@@ -3848,6 +4614,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "football shirt",
@@ -3858,6 +4626,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "football shirt",
@@ -3868,6 +4638,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "four-ball tee",
@@ -3878,6 +4650,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Purple",
     color_two: "White",
+    source: "Nook Shopping Daily Selection",
+    season: "All Year",
   },
   {
     name: "frog tee",
@@ -3888,6 +4662,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Beige",
     color_two: "Green",
+    source: "Nook Shopping Daily Selection",
+    season: "All Year",
   },
   {
     name: "front-tie button-down shirt",
@@ -3898,6 +4674,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Gray",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "front-tie button-down shirt",
@@ -3908,6 +4686,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Pink",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "front-tie button-down shirt",
@@ -3919,6 +4699,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Yellow",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "front-tie button-down shirt",
@@ -3929,6 +4711,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "front-tie tee",
@@ -3939,6 +4723,8 @@ const tops = [
     style_two: "Cool",
     color_one: "White",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "front-tie tee",
@@ -3949,6 +4735,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Black",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "front-tie tee",
@@ -3959,6 +4747,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Red",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "front-tie tee",
@@ -3969,6 +4759,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Yellow",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "fuzzy vest",
@@ -3979,6 +4771,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "fuzzy vest",
@@ -3989,6 +4783,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "fuzzy vest",
@@ -3999,6 +4795,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "fuzzy vest",
@@ -4009,6 +4807,8 @@ const tops = [
     style_two: "Active",
     color_one: "Brown",
     color_two: "Brown",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "fuzzy vest",
@@ -4019,6 +4819,8 @@ const tops = [
     style_two: "Active",
     color_one: "Beige",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "garden tank",
@@ -4029,6 +4831,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Pink",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "garden tank",
@@ -4039,6 +4843,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Orange",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "garden tank",
@@ -4049,6 +4855,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Green",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "garden tank",
@@ -4059,6 +4867,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Blue",
     color_two: "Purple",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "gilet and shirt",
@@ -4069,6 +4879,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Gray",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "gilet and shirt",
@@ -4079,6 +4891,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Black",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "gilet and shirt",
@@ -4089,6 +4903,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Red",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "gilet and shirt",
@@ -4099,6 +4915,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "gingham picnic shirt",
@@ -4109,6 +4927,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Black",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "gingham picnic shirt",
@@ -4119,6 +4939,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Red",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "gingham picnic shirt",
@@ -4129,6 +4951,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Pink",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "gingham picnic shirt",
@@ -4139,6 +4963,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Orange",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "gingham picnic shirt",
@@ -4149,6 +4975,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "gingham picnic shirt",
@@ -4159,6 +4987,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Aqua",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "gingham picnic shirt",
@@ -4169,6 +4999,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "gingham picnic shirt",
@@ -4179,6 +5011,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Purple",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "gold-print tee",
@@ -4189,6 +5023,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "White",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "gold-print tee",
@@ -4199,6 +5035,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Black",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "gown coat",
@@ -4209,6 +5047,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Black",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "gown coat",
@@ -4219,6 +5059,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Red",
     color_two: "Brown",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "gown coat",
@@ -4229,6 +5071,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Aqua",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "gown coat",
@@ -4239,6 +5083,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Brown",
     color_two: "Brown",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "graduation gown",
@@ -4249,6 +5095,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Black",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "graduation gown",
@@ -4259,6 +5107,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Black",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "graduation gown",
@@ -4269,6 +5119,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Black",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "graduation gown",
@@ -4279,6 +5131,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Black",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "green Nook Inc. aloha shirt",
@@ -4289,6 +5143,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "White",
+    source: "Nook Miles Redemption",
+    season: "All Year",
   },
   {
     name: "groovy shirt",
@@ -4299,6 +5155,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Red",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "groovy shirt",
@@ -4309,6 +5167,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Orange",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "groovy shirt",
@@ -4319,6 +5179,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Green",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "groovy tunic",
@@ -4329,6 +5191,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Orange",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "groovy tunic",
@@ -4339,6 +5203,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Brown",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "groovy tunic",
@@ -4349,6 +5215,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Beige",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "guayabera shirt",
@@ -4359,6 +5227,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Red",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "guayabera shirt",
@@ -4369,6 +5239,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Green",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "guayabera shirt",
@@ -4379,6 +5251,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "guayabera shirt",
@@ -4389,6 +5263,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Brown",
     color_two: "Brown",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "guide shirt",
@@ -4399,6 +5275,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "guide shirt",
@@ -4409,6 +5287,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "guide shirt",
@@ -4419,6 +5299,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "gym tee",
@@ -4429,6 +5311,8 @@ const tops = [
     style_two: "Active",
     color_one: "White",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "gym tee",
@@ -4439,6 +5323,8 @@ const tops = [
     style_two: "Active",
     color_one: "White",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "gym tee",
@@ -4449,6 +5335,8 @@ const tops = [
     style_two: "Active",
     color_one: "White",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "gym tee",
@@ -4459,6 +5347,8 @@ const tops = [
     style_two: "Active",
     color_one: "White",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "hallo tee",
@@ -4469,6 +5359,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Black",
     color_two: "Orange",
+    source: "Nook Shopping Daily Selection",
+    season: "All Year",
   },
   {
     name: "hand-knit tank",
@@ -4479,6 +5371,8 @@ const tops = [
     style_two: "Cute",
     color_one: "White",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "hand-knit tank",
@@ -4489,6 +5383,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Black",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "hand-knit tank",
@@ -4499,6 +5395,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Red",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "hand-knit tank",
@@ -4509,6 +5407,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Orange",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "hand-knit tank",
@@ -4519,6 +5419,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Green",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "hand-knit tank",
@@ -4529,6 +5431,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "handmade cape",
@@ -4539,6 +5443,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Red",
     color_two: "Aqua",
+    source: "Nook Shopping Seasonal",
+    season: "All Year",
   },
   {
     name: "hanten jacket",
@@ -4549,6 +5455,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "hanten jacket",
@@ -4559,6 +5467,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "hanten jacket",
@@ -4569,6 +5479,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Purple",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "hanten jacket",
@@ -4579,6 +5491,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Brown",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "happi tee",
@@ -4589,6 +5503,8 @@ const tops = [
     style_two: "Active",
     color_one: "Gray",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "happi tee",
@@ -4599,6 +5515,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "happi tee",
@@ -4609,6 +5527,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "happi tee",
@@ -4619,6 +5539,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "happi tee",
@@ -4629,6 +5551,8 @@ const tops = [
     style_two: "Active",
     color_one: "Purple",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "hawk jacket",
@@ -4639,6 +5563,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Red",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "heart apron",
@@ -4649,6 +5575,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Red",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "heart apron",
@@ -4659,6 +5587,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Pink",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "heart apron",
@@ -4669,6 +5599,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "heart apron",
@@ -4679,6 +5611,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Aqua",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "heart apron",
@@ -4689,6 +5623,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Purple",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "heart sweater",
@@ -4699,6 +5635,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Red",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "heart sweater",
@@ -4709,6 +5647,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Pink",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "heavy-duty shirt",
@@ -4719,6 +5659,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Red",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "heavy-duty shirt",
@@ -4729,6 +5671,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Orange",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "heavy-duty shirt",
@@ -4739,6 +5683,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "heavy-duty shirt",
@@ -4749,6 +5695,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "hello tee",
@@ -4759,6 +5707,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Black",
     color_two: "White",
+    source: "Nook Shopping Daily Selection",
+    season: "All Year",
   },
   {
     name: "henley shirt",
@@ -4769,6 +5719,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Yellow",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "henley shirt",
@@ -4779,6 +5731,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Green",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "henley shirt",
@@ -4789,6 +5743,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Aqua",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "henley shirt",
@@ -4799,6 +5755,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Purple",
     color_two: "Purple",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "hi tee",
@@ -4809,6 +5767,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Beige",
     color_two: "Brown",
+    source: "Nook Shopping Daily Selection",
+    season: "All Year",
   },
   {
     name: "hip-wrap shirt",
@@ -4819,6 +5779,8 @@ const tops = [
     style_two: "Active",
     color_one: "White",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "hip-wrap shirt",
@@ -4829,6 +5791,8 @@ const tops = [
     style_two: "Active",
     color_one: "Gray",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "hip-wrap shirt",
@@ -4839,6 +5803,8 @@ const tops = [
     style_two: "Active",
     color_one: "Black",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "hoi tee",
@@ -4849,6 +5815,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "Yellow",
+    source: "Nook Shopping Daily Selection",
+    season: "All Year",
   },
   {
     name: "hola tee",
@@ -4859,6 +5827,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Yellow",
     color_two: "Orange",
+    source: "Nook Shopping Daily Selection",
+    season: "All Year",
   },
   {
     name: "holiday sweater",
@@ -4869,6 +5839,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Red",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "holiday sweater",
@@ -4879,6 +5851,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Green",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "holiday sweater",
@@ -4889,6 +5863,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Blue",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "hula top",
@@ -4899,6 +5875,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Red",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "hula top",
@@ -4909,6 +5887,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Orange",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "hula top",
@@ -4919,6 +5899,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "hula top",
@@ -4929,6 +5911,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Purple",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "hula top",
@@ -4939,6 +5923,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Beige",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "humble sweater",
@@ -4949,6 +5935,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "humble sweater",
@@ -4959,6 +5947,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "humble sweater",
@@ -4969,6 +5959,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Purple",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "humble sweater",
@@ -4979,6 +5971,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Beige",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "kanji tee",
@@ -4989,6 +5983,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "kanji tee",
@@ -4999,6 +5995,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "kanji tee",
@@ -5009,6 +6007,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Pink",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "kanji tee",
@@ -5019,6 +6019,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "Kerokerokeroppi tank top",
@@ -5029,6 +6031,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Red",
     color_two: "White",
+    source: "Nook Shopping Promotion",
+    season: "All Year",
   },
   {
     name: "kids' smock",
@@ -5039,6 +6043,8 @@ const tops = [
     style_two: "Active",
     color_one: "Aqua",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "kids' smock",
@@ -5049,6 +6055,8 @@ const tops = [
     style_two: "Active",
     color_one: "Aqua",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "kids' smock",
@@ -5059,6 +6067,8 @@ const tops = [
     style_two: "Active",
     color_one: "Aqua",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "kids' smock",
@@ -5069,6 +6079,8 @@ const tops = [
     style_two: "Active",
     color_one: "Aqua",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "Kiki & Lala tee",
@@ -5079,6 +6091,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Pink",
     color_two: "Yellow",
+    source: "Nook Shopping Promotion",
+    season: "All Year",
   },
   {
     name: "konnichiwa tee",
@@ -5089,6 +6103,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "Green",
+    source: "Nook Shopping Daily Selection",
+    season: "All Year",
   },
   {
     name: "kung-fu tee",
@@ -5099,6 +6115,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "kung-fu tee",
@@ -5109,6 +6127,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Yellow",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "kung-fu tee",
@@ -5119,6 +6139,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "kung-fu tee",
@@ -5129,6 +6151,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Aqua",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "kung-fu tee",
@@ -5139,6 +6163,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "kurta",
@@ -5149,6 +6175,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Gray",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "kurta",
@@ -5159,6 +6187,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Green",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "kurta",
@@ -5169,6 +6199,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Aqua",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "kurta",
@@ -5179,6 +6211,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Beige",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "Labelle coat",
@@ -5189,6 +6223,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Black",
     color_two: "Black",
+    source: "Label",
+    season: "All Year",
   },
   {
     name: "Labelle coat",
@@ -5199,6 +6235,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Red",
     color_two: "Black",
+    source: "Label",
+    season: "All Year",
   },
   {
     name: "Labelle coat",
@@ -5209,6 +6247,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Pink",
     color_two: "Black",
+    source: "Label",
+    season: "All Year",
   },
   {
     name: "Labelle coat",
@@ -5219,6 +6259,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Yellow",
     color_two: "Black",
+    source: "Label",
+    season: "All Year",
   },
   {
     name: "Labelle coat",
@@ -5229,6 +6271,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Blue",
     color_two: "Black",
+    source: "Label",
+    season: "All Year",
   },
   {
     name: "Labelle coat",
@@ -5239,6 +6283,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Purple",
     color_two: "Black",
+    source: "Label",
+    season: "All Year",
   },
   {
     name: "Labelle knit shirt",
@@ -5249,6 +6295,8 @@ const tops = [
     style_two: "Active",
     color_one: "Black",
     color_two: "Black",
+    source: "Label",
+    season: "All Year",
   },
   {
     name: "Labelle knit shirt",
@@ -5259,6 +6307,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "Red",
+    source: "Label",
+    season: "All Year",
   },
   {
     name: "Labelle knit shirt",
@@ -5269,6 +6319,8 @@ const tops = [
     style_two: "Active",
     color_one: "Pink",
     color_two: "Pink",
+    source: "Label",
+    season: "All Year",
   },
   {
     name: "Labelle knit shirt",
@@ -5279,6 +6331,8 @@ const tops = [
     style_two: "Active",
     color_one: "Yellow",
     color_two: "Yellow",
+    source: "Label",
+    season: "All Year",
   },
   {
     name: "Labelle knit shirt",
@@ -5289,6 +6343,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Label",
+    season: "All Year",
   },
   {
     name: "Labelle knit shirt",
@@ -5299,6 +6355,8 @@ const tops = [
     style_two: "Active",
     color_one: "Purple",
     color_two: "Purple",
+    source: "Label",
+    season: "All Year",
   },
   {
     name: "lacy shirt",
@@ -5309,6 +6367,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Black",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "lacy shirt",
@@ -5319,6 +6379,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Beige",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "lacy tank",
@@ -5329,6 +6391,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "lacy tank",
@@ -5339,6 +6403,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Pink",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "lacy tank",
@@ -5349,6 +6415,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Yellow",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "lacy tank",
@@ -5359,6 +6427,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "lacy tank",
@@ -5369,6 +6439,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Purple",
     color_two: "Purple",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "layered shirt",
@@ -5379,6 +6451,8 @@ const tops = [
     style_two: "Active",
     color_one: "White",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "layered shirt",
@@ -5389,6 +6463,8 @@ const tops = [
     style_two: "Active",
     color_one: "Orange",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "layered shirt",
@@ -5399,6 +6475,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "layered shirt",
@@ -5409,6 +6487,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "layered tank",
@@ -5419,6 +6499,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Red",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "layered tank",
@@ -5429,6 +6511,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Pink",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "layered tank",
@@ -5439,6 +6523,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Orange",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "layered tank",
@@ -5449,6 +6535,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Yellow",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "layered tank",
@@ -5459,6 +6547,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "layered tank",
@@ -5469,6 +6559,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Aqua",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "layered tank",
@@ -5479,6 +6571,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "layered tank",
@@ -5489,6 +6583,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Purple",
     color_two: "Purple",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "leopard tee",
@@ -5499,6 +6595,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Gray",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "leopard tee",
@@ -5509,6 +6607,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Pink",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "leopard tee",
@@ -5519,6 +6619,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Yellow",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "leopard tee",
@@ -5529,6 +6631,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Green",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "letter jacket",
@@ -5539,6 +6643,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Red",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "letter jacket",
@@ -5549,6 +6655,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "letter jacket",
@@ -5559,6 +6667,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Blue",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "letter jacket",
@@ -5569,6 +6679,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Beige",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "madras plaid shirt",
@@ -5579,6 +6691,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Gray",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "madras plaid shirt",
@@ -5589,6 +6703,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Red",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "madras plaid shirt",
@@ -5599,6 +6715,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Pink",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "madras plaid shirt",
@@ -5609,6 +6727,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "madras plaid shirt",
@@ -5619,6 +6739,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "madras plaid shirt",
@@ -5629,6 +6751,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Purple",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "marble-dots tee",
@@ -5639,6 +6763,8 @@ const tops = [
     style_two: "Active",
     color_one: "White",
     color_two: "Colorful",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "marble-dots tee",
@@ -5649,6 +6775,8 @@ const tops = [
     style_two: "Active",
     color_one: "Black",
     color_two: "Colorful",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "meme shirt",
@@ -5659,6 +6787,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "meme shirt",
@@ -5669,6 +6799,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "meme shirt",
@@ -5679,6 +6811,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "meme shirt",
@@ -5689,6 +6823,8 @@ const tops = [
     style_two: "Active",
     color_one: "Purple",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "midwinter sweater",
@@ -5699,6 +6835,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Beige",
     color_two: "Brown",
+    source: "Nook Shopping Seasonal",
+    season: "Winter",
   },
   {
     name: "military uniform",
@@ -5709,6 +6847,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "White",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "military uniform",
@@ -5719,6 +6859,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Red",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "military uniform",
@@ -5729,6 +6871,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Green",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "military uniform",
@@ -5739,6 +6883,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Blue",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "misty tee",
@@ -5749,6 +6895,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "Yellow",
+    source: "Nook Shopping Daily Selection",
+    season: "All Year",
   },
   {
     name: "mod parka",
@@ -5759,6 +6907,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Green",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "mod parka",
@@ -5769,6 +6919,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Brown",
     color_two: "Brown",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "Mom's hand-knit sweater",
@@ -5780,6 +6932,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "Colorful",
+    source: "Mom",
+    season: "All Year",
   },
   {
     name: "Mom's hand-knit sweater",
@@ -5790,6 +6944,8 @@ const tops = [
     style_two: "Active",
     color_one: "Pink",
     color_two: "Yellow",
+    source: "Mom",
+    season: "All Year",
   },
   {
     name: "Mom's hand-knit sweater",
@@ -5800,6 +6956,8 @@ const tops = [
     style_two: "Active",
     color_one: "Orange",
     color_two: "Aqua",
+    source: "Mom",
+    season: "All Year",
   },
   {
     name: "Mom's hand-knit sweater",
@@ -5810,6 +6968,8 @@ const tops = [
     style_two: "Active",
     color_one: "Yellow",
     color_two: "Green",
+    source: "Mom",
+    season: "All Year",
   },
   {
     name: "Mom's hand-knit sweater",
@@ -5820,6 +6980,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "Colorful",
+    source: "Mom",
+    season: "All Year",
   },
   {
     name: "Mom's hand-knit sweater",
@@ -5831,6 +6993,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "Brown",
+    source: "Mom",
+    season: "All Year",
   },
   {
     name: "Mom's hand-knit sweater",
@@ -5842,6 +7006,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "Beige",
+    source: "Mom",
+    season: "All Year",
   },
   {
     name: "Mom's hand-knit sweater",
@@ -5852,6 +7018,8 @@ const tops = [
     style_two: "Active",
     color_one: "Beige",
     color_two: "Colorful",
+    source: "Mom",
+    season: "All Year",
   },
   {
     name: "Mom's handmade apron",
@@ -5862,6 +7030,8 @@ const tops = [
     style_two: "Active",
     color_one: "Gray",
     color_two: "White",
+    source: "Mom",
+    season: "All Year",
   },
   {
     name: "Mom's handmade apron",
@@ -5872,6 +7042,8 @@ const tops = [
     style_two: "Active",
     color_one: "Pink",
     color_two: "White",
+    source: "Mom",
+    season: "All Year",
   },
   {
     name: "Mom's handmade apron",
@@ -5882,6 +7054,8 @@ const tops = [
     style_two: "Active",
     color_one: "Orange",
     color_two: "Yellow",
+    source: "Mom",
+    season: "All Year",
   },
   {
     name: "Mom's handmade apron",
@@ -5892,6 +7066,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "White",
+    source: "Mom",
+    season: "All Year",
   },
   {
     name: "Mom's handmade apron",
@@ -5903,6 +7079,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "White",
+    source: "Mom",
+    season: "All Year",
   },
   {
     name: "Mom's handmade apron",
@@ -5913,6 +7091,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "White",
+    source: "Mom",
+    season: "All Year",
   },
   {
     name: "Mom's handmade apron",
@@ -5923,6 +7103,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "Gray",
+    source: "Mom",
+    season: "All Year",
   },
   {
     name: "Mom's handmade apron",
@@ -5934,6 +7116,8 @@ const tops = [
     style_two: "Active",
     color_one: "Colorful",
     color_two: "White",
+    source: "Mom",
+    season: "All Year",
   },
   {
     name: "morning coat",
@@ -5944,6 +7128,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Black",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "mountain parka",
@@ -5954,6 +7140,8 @@ const tops = [
     style_two: "Active",
     color_one: "Black",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "mountain parka",
@@ -5964,6 +7152,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "mountain parka",
@@ -5974,6 +7164,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "mountain parka",
@@ -5984,6 +7176,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "multipurpose vest",
@@ -5994,6 +7188,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Gray",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "multipurpose vest",
@@ -6004,6 +7200,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "multipurpose vest",
@@ -6014,6 +7212,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Beige",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "muscle tank",
@@ -6024,6 +7224,8 @@ const tops = [
     style_two: "Active",
     color_one: "Gray",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "muscle tank",
@@ -6034,6 +7236,8 @@ const tops = [
     style_two: "Active",
     color_one: "Black",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "muscle tank",
@@ -6044,6 +7248,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "muscle tank",
@@ -6054,6 +7260,8 @@ const tops = [
     style_two: "Active",
     color_one: "Pink",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "muscle tank",
@@ -6064,6 +7272,8 @@ const tops = [
     style_two: "Active",
     color_one: "Yellow",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "muscle tank",
@@ -6074,6 +7284,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "muscle tank",
@@ -6084,6 +7296,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "muscle tank",
@@ -6094,6 +7308,8 @@ const tops = [
     style_two: "Active",
     color_one: "Purple",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "music-fest shirt",
@@ -6104,6 +7320,8 @@ const tops = [
     style_two: "Active",
     color_one: "Black",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "music-fest shirt",
@@ -6114,6 +7332,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "music-fest shirt",
@@ -6124,6 +7344,8 @@ const tops = [
     style_two: "Active",
     color_one: "Aqua",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "music-fest shirt",
@@ -6134,6 +7356,8 @@ const tops = [
     style_two: "Active",
     color_one: "Purple",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "MVP tee",
@@ -6144,16 +7368,8 @@ const tops = [
     style_two: "Active",
     color_one: "White",
     color_two: "Blue",
-  },
-  {
-    name: "My Melody shirt",
-    imageUrl: "/images/tops/My Melody shirt/Storage Image.png",
-    variation: "NA",
-    price: 1200,
-    style_one: "Cute",
-    style_two: "Cute",
-    color_one: "Pink",
-    color_two: "Pink",
+    source: "Nook Shopping Daily Selection",
+    season: "All Year",
   },
   {
     name: "ni hao tee",
@@ -6164,6 +7380,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Pink",
     color_two: "White",
+    source: "Nook Shopping Daily Selection",
+    season: "All Year",
   },
   {
     name: "nine-ball tee",
@@ -6174,6 +7392,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Orange",
     color_two: "White",
+    source: "Nook Shopping Daily Selection",
+    season: "All Year",
   },
   {
     name: "No. 1 shirt",
@@ -6184,6 +7404,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "Aqua",
+    source: "Nook Shopping Daily Selection",
+    season: "All Year",
   },
   {
     name: "No. 2 shirt",
@@ -6194,6 +7416,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "Red",
+    source: "Nook Shopping Daily Selection",
+    season: "All Year",
   },
   {
     name: "No. 3 shirt",
@@ -6204,6 +7428,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "Orange",
+    source: "Nook Shopping Daily Selection",
+    season: "All Year",
   },
   {
     name: "No. 4 shirt",
@@ -6214,6 +7440,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Pink",
     color_two: "Red",
+    source: "Nook Shopping Daily Selection",
+    season: "All Year",
   },
   {
     name: "noble coat",
@@ -6224,6 +7452,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "White",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "noble coat",
@@ -6234,6 +7464,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Black",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "noble coat",
@@ -6244,6 +7476,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Red",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "noble coat",
@@ -6254,6 +7488,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Pink",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "noble coat",
@@ -6264,6 +7500,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Yellow",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "noble coat",
@@ -6274,6 +7512,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Green",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "noble coat",
@@ -6284,6 +7524,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Blue",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "noble coat",
@@ -6294,6 +7536,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Purple",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "Nook Inc. aloha shirt",
@@ -6304,6 +7548,8 @@ const tops = [
     style_two: "Active",
     color_one: "White",
     color_two: "Green",
+    source: "Nook Miles Redemption",
+    season: "All Year",
   },
   {
     name: "Nook Inc. blouson",
@@ -6314,6 +7560,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "Green",
+    source: "Nook Miles Redemption",
+    season: "All Year",
   },
   {
     name: "Nook Inc. tee",
@@ -6324,6 +7572,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Yellow",
     color_two: "Green",
+    source: "Nook Miles Redemption",
+    season: "All Year",
   },
   {
     name: "nurse's jacket",
@@ -6334,6 +7584,8 @@ const tops = [
     style_two: "Active",
     color_one: "White",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "nurse's jacket",
@@ -6344,6 +7596,8 @@ const tops = [
     style_two: "Active",
     color_one: "Pink",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "nurse's jacket",
@@ -6354,6 +7608,8 @@ const tops = [
     style_two: "Active",
     color_one: "Aqua",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "nylon jacket",
@@ -6364,6 +7620,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Black",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "nylon jacket",
@@ -6374,6 +7632,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Red",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "nylon jacket",
@@ -6384,6 +7644,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Green",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "nylon jacket",
@@ -6394,6 +7656,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "oilskin coat",
@@ -6404,6 +7668,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Gray",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "oilskin coat",
@@ -6414,6 +7680,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Red",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "oilskin coat",
@@ -6424,6 +7692,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Yellow",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "OK Motors jacket",
@@ -6434,6 +7704,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "Blue",
+    source: "Nook Shopping Promotion",
+    season: "All Year",
   },
   {
     name: "old-school jacket",
@@ -6444,6 +7716,8 @@ const tops = [
     style_two: "Active",
     color_one: "Black",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "old-school jacket",
@@ -6454,6 +7728,8 @@ const tops = [
     style_two: "Active",
     color_one: "Black",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "old-school jacket",
@@ -6464,6 +7740,8 @@ const tops = [
     style_two: "Active",
     color_one: "Black",
     color_two: "Purple",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "one-ball tee",
@@ -6474,6 +7752,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Yellow",
     color_two: "White",
+    source: "Nook Shopping Daily Selection",
+    season: "All Year",
   },
   {
     name: "open-collar shirt",
@@ -6484,6 +7764,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Red",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "open-collar shirt",
@@ -6494,6 +7776,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Green",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "open-collar shirt",
@@ -6504,6 +7788,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Aqua",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "open-collar shirt",
@@ -6514,6 +7800,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Beige",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "oversized shawl overshirt",
@@ -6524,6 +7812,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Gray",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "oversized shawl overshirt",
@@ -6534,6 +7824,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Pink",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "oversized shawl overshirt",
@@ -6544,6 +7836,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Brown",
     color_two: "Brown",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "parka undercoat",
@@ -6554,6 +7848,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Gray",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "parka undercoat",
@@ -6564,6 +7860,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Black",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "parka undercoat",
@@ -6574,6 +7872,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Yellow",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "parka undercoat",
@@ -6584,6 +7884,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "parka undercoat",
@@ -6594,6 +7896,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Aqua",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "parka undercoat",
@@ -6604,6 +7908,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "patchwork coat",
@@ -6614,6 +7920,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Gray",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "patchwork coat",
@@ -6624,6 +7932,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Green",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "patchwork coat",
@@ -6634,6 +7944,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Brown",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "peacoat",
@@ -6644,6 +7956,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Gray",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "peacoat",
@@ -6654,6 +7968,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Red",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "peacoat",
@@ -6664,6 +7980,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "peacoat",
@@ -6674,6 +7992,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Beige",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "peasant blouse",
@@ -6684,6 +8004,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "White",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "peasant blouse",
@@ -6694,6 +8016,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Black",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "peasant blouse",
@@ -6704,6 +8028,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Pink",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "peasant blouse",
@@ -6714,6 +8040,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Purple",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "peasant blouse",
@@ -6724,6 +8052,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Beige",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "pineapple aloha shirt",
@@ -6734,6 +8064,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "pineapple aloha shirt",
@@ -6744,6 +8076,8 @@ const tops = [
     style_two: "Active",
     color_one: "Pink",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "pineapple aloha shirt",
@@ -6754,6 +8088,8 @@ const tops = [
     style_two: "Active",
     color_one: "Orange",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "pineapple aloha shirt",
@@ -6764,6 +8100,8 @@ const tops = [
     style_two: "Active",
     color_one: "Yellow",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "pineapple aloha shirt",
@@ -6774,6 +8112,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "pineapple aloha shirt",
@@ -6784,6 +8124,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "pineapple aloha shirt",
@@ -6794,6 +8136,8 @@ const tops = [
     style_two: "Active",
     color_one: "Purple",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "plaid puffed-sleeve shirt",
@@ -6805,6 +8149,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Orange",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "plaid puffed-sleeve shirt",
@@ -6816,6 +8162,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "Brown",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "plaid puffed-sleeve shirt",
@@ -6827,6 +8175,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Aqua",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "plaid puffed-sleeve shirt",
@@ -6838,6 +8188,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Purple",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "pleather trench coat",
@@ -6848,6 +8200,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Black",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "pleather trench coat",
@@ -6858,6 +8212,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Purple",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "pleather trench coat",
@@ -6868,6 +8224,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Brown",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "plover cardigan",
@@ -6878,6 +8236,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Black",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "plover cardigan",
@@ -6888,6 +8248,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Red",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "plover cardigan",
@@ -6898,6 +8260,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Green",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "plushie-muffler coat",
@@ -6908,6 +8272,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Black",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "plushie-muffler coat",
@@ -6918,6 +8284,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Aqua",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "plushie-muffler coat",
@@ -6928,6 +8296,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Brown",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "pocket tee",
@@ -6938,6 +8308,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "pocket tee",
@@ -6948,6 +8320,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Black",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "pocket tee",
@@ -6958,6 +8332,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Red",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "pocket tee",
@@ -6968,6 +8344,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Orange",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "pocket tee",
@@ -6978,6 +8356,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "pocket tee",
@@ -6988,6 +8368,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Aqua",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "pocket tee",
@@ -6998,6 +8380,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Purple",
     color_two: "Purple",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "pocket tee",
@@ -7008,6 +8392,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Brown",
     color_two: "Brown",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "polo shirt",
@@ -7018,6 +8404,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "polo shirt",
@@ -7028,6 +8416,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Black",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "polo shirt",
@@ -7038,6 +8428,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Red",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "polo shirt",
@@ -7048,6 +8440,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Pink",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "polo shirt",
@@ -7058,6 +8452,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Orange",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "polo shirt",
@@ -7068,6 +8464,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Yellow",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "polo shirt",
@@ -7078,6 +8476,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "polo shirt",
@@ -7088,6 +8488,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "pom-pom sweater",
@@ -7098,6 +8500,8 @@ const tops = [
     style_two: "Cute",
     color_one: "White",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "pom-pom sweater",
@@ -7108,6 +8512,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Pink",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "pom-pom sweater",
@@ -7118,6 +8524,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Aqua",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "Pompompurin tee",
@@ -7128,6 +8536,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Yellow",
     color_two: "Brown",
+    source: "Nook Shopping Promotion",
+    season: "All Year",
   },
   {
     name: "poncho coat",
@@ -7138,6 +8548,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Red",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "poncho coat",
@@ -7148,6 +8560,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Pink",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "poncho coat",
@@ -7158,6 +8572,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Yellow",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "poncho coat",
@@ -7168,6 +8584,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Blue",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "poncho-style sweater",
@@ -7178,6 +8596,8 @@ const tops = [
     style_two: "Active",
     color_one: "Gray",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "poncho-style sweater",
@@ -7188,6 +8608,8 @@ const tops = [
     style_two: "Active",
     color_one: "Orange",
     color_two: "Brown",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "poncho-style sweater",
@@ -7198,6 +8620,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "poncho-style sweater",
@@ -7209,6 +8633,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "Purple",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "poncho-style sweater",
@@ -7219,6 +8645,8 @@ const tops = [
     style_two: "Active",
     color_one: "Purple",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "prince's tunic",
@@ -7229,6 +8657,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Red",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "prince's tunic",
@@ -7239,6 +8669,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Green",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "prince's tunic",
@@ -7249,6 +8681,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Blue",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "prince's tunic",
@@ -7259,6 +8693,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Purple",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "prince's tunic",
@@ -7269,6 +8705,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Beige",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "printed fleece sweater",
@@ -7279,6 +8717,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Green",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "printed fleece sweater",
@@ -7290,6 +8730,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Green",
     color_two: "Purple",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "printed fleece sweater",
@@ -7300,6 +8742,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Blue",
     color_two: "Purple",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "printed fleece sweater",
@@ -7310,6 +8754,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Purple",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "printed fleece sweater",
@@ -7320,6 +8766,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Beige",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "printed layered shirt",
@@ -7330,6 +8778,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "printed layered shirt",
@@ -7340,6 +8790,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Black",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "printed layered shirt",
@@ -7350,6 +8802,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Yellow",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "printed-sleeve sweater",
@@ -7360,6 +8814,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "printed-sleeve sweater",
@@ -7370,6 +8826,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Black",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "printed-sleeve sweater",
@@ -7380,6 +8838,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Orange",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "privét tee",
@@ -7390,6 +8850,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "White",
+    source: "Nook Shopping Daily Selection",
+    season: "All Year",
   },
   {
     name: "puffy vest",
@@ -7400,6 +8862,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "puffy vest",
@@ -7410,6 +8874,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "puffy vest",
@@ -7420,6 +8886,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "puffy vest",
@@ -7430,6 +8898,8 @@ const tops = [
     style_two: "Active",
     color_one: "Purple",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "puffy vest",
@@ -7440,6 +8910,8 @@ const tops = [
     style_two: "Active",
     color_one: "Brown",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "puffy-sleeve blouse",
@@ -7450,6 +8922,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Pink",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "puffy-sleeve blouse",
@@ -7460,6 +8934,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Yellow",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "puffy-sleeve blouse",
@@ -7470,6 +8946,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Green",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "puffy-sleeve blouse",
@@ -7480,6 +8958,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Aqua",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "pullover jacket",
@@ -7490,6 +8970,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Red",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "pullover jacket",
@@ -7500,6 +8982,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Red",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "pullover jacket",
@@ -7510,6 +8994,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Aqua",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "pullover jacket",
@@ -7520,6 +9006,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Blue",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "pullover jacket",
@@ -7530,6 +9018,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Purple",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "quilted down jacket",
@@ -7540,6 +9030,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Gray",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "quilted down jacket",
@@ -7550,6 +9042,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Yellow",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "quilted down jacket",
@@ -7560,6 +9054,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Green",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "quilted down jacket",
@@ -7570,6 +9066,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Blue",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "quilted down jacket",
@@ -7580,6 +9078,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Purple",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "quilted jacket",
@@ -7590,6 +9090,8 @@ const tops = [
     style_two: "Active",
     color_one: "Pink",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "quilted jacket",
@@ -7600,6 +9102,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "quilted jacket",
@@ -7610,6 +9114,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "quilted jacket",
@@ -7620,6 +9126,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "quilted jacket",
@@ -7630,6 +9138,8 @@ const tops = [
     style_two: "Active",
     color_one: "Brown",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "rabbit tee",
@@ -7640,6 +9150,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Aqua",
     color_two: "White",
+    source: "Nook Shopping Daily Selection",
+    season: "All Year",
   },
   {
     name: "raglan shirt",
@@ -7650,6 +9162,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "raglan shirt",
@@ -7660,6 +9174,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Black",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "raglan shirt",
@@ -7670,6 +9186,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Red",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "raglan shirt",
@@ -7680,6 +9198,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "raglan shirt",
@@ -7690,6 +9210,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "rainbow sweater",
@@ -7700,6 +9222,8 @@ const tops = [
     style_two: "Active",
     color_one: "White",
     color_two: "Colorful",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "rainbow sweater",
@@ -7710,6 +9234,8 @@ const tops = [
     style_two: "Active",
     color_one: "Black",
     color_two: "Colorful",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "rainbow sweater",
@@ -7720,6 +9246,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "Colorful",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "rainbow sweater",
@@ -7730,6 +9258,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "Colorful",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "rainbow sweater",
@@ -7740,6 +9270,8 @@ const tops = [
     style_two: "Active",
     color_one: "Aqua",
     color_two: "Colorful",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "raincoat",
@@ -7750,6 +9282,8 @@ const tops = [
     style_two: "Active",
     color_one: "Black",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "raincoat",
@@ -7760,6 +9294,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "raincoat",
@@ -7770,6 +9306,8 @@ const tops = [
     style_two: "Active",
     color_one: "Pink",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "raincoat",
@@ -7780,6 +9318,8 @@ const tops = [
     style_two: "Active",
     color_one: "Yellow",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "raincoat",
@@ -7790,6 +9330,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "raincoat",
@@ -7800,6 +9342,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "raincoat",
@@ -7810,6 +9354,8 @@ const tops = [
     style_two: "Active",
     color_one: "Purple",
     color_two: "Purple",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "raincoat",
@@ -7820,6 +9366,8 @@ const tops = [
     style_two: "Active",
     color_one: "Beige",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "reindeer sweater",
@@ -7830,6 +9378,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Red",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "reindeer sweater",
@@ -7840,6 +9390,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Green",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "reindeer sweater",
@@ -7850,6 +9402,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Brown",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "relay tank",
@@ -7860,6 +9414,8 @@ const tops = [
     style_two: "Active",
     color_one: "White",
     color_two: "Purple",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "relay tank",
@@ -7870,6 +9426,8 @@ const tops = [
     style_two: "Active",
     color_one: "Black",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "relay tank",
@@ -7880,6 +9438,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "relay tank",
@@ -7890,6 +9450,8 @@ const tops = [
     style_two: "Active",
     color_one: "Orange",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "relay tank",
@@ -7900,6 +9462,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "relay tank",
@@ -7910,6 +9474,8 @@ const tops = [
     style_two: "Active",
     color_one: "Aqua",
     color_two: "Purple",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "relay tank",
@@ -7920,6 +9486,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "relay tank",
@@ -7930,6 +9498,8 @@ const tops = [
     style_two: "Active",
     color_one: "Purple",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "retro coat",
@@ -7940,6 +9510,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Red",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "retro coat",
@@ -7950,6 +9522,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Green",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "retro coat",
@@ -7960,6 +9534,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Blue",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "retro coat",
@@ -7970,6 +9546,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Brown",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "retro sweater",
@@ -7980,6 +9558,8 @@ const tops = [
     style_two: "Active",
     color_one: "White",
     color_two: "Colorful",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "retro sweater",
@@ -7990,6 +9570,8 @@ const tops = [
     style_two: "Active",
     color_one: "Yellow",
     color_two: "Colorful",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "retro sweater",
@@ -8000,6 +9582,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "Colorful",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "retro sweater",
@@ -8010,6 +9594,8 @@ const tops = [
     style_two: "Active",
     color_one: "Purple",
     color_two: "Colorful",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "ribbon-straps tank",
@@ -8020,6 +9606,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "ribbon-straps tank",
@@ -8030,6 +9618,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "ribbon-straps tank",
@@ -8040,6 +9630,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "royal shirt",
@@ -8050,6 +9642,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Red",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "rubber apron",
@@ -8060,6 +9654,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "rubber apron",
@@ -8070,6 +9666,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Black",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "safety vest",
@@ -8080,6 +9678,8 @@ const tops = [
     style_two: "Active",
     color_one: "Black",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "safety vest",
@@ -8090,6 +9690,8 @@ const tops = [
     style_two: "Active",
     color_one: "Orange",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sailor-style shirt",
@@ -8100,6 +9702,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sailor-style shirt",
@@ -8110,6 +9714,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Aqua",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sailor-style shirt",
@@ -8120,6 +9726,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sailor's tee",
@@ -8130,6 +9738,8 @@ const tops = [
     style_two: "Cute",
     color_one: "White",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "sailor's tee",
@@ -8140,6 +9750,8 @@ const tops = [
     style_two: "Cute",
     color_one: "White",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "sailor's tee",
@@ -8150,6 +9762,8 @@ const tops = [
     style_two: "Cute",
     color_one: "White",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "sailor's tee",
@@ -8160,6 +9774,8 @@ const tops = [
     style_two: "Cute",
     color_one: "White",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "sailor's tee",
@@ -8170,6 +9786,8 @@ const tops = [
     style_two: "Cute",
     color_one: "White",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "sailor's tee",
@@ -8180,6 +9798,8 @@ const tops = [
     style_two: "Cute",
     color_one: "White",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "sailor's tee",
@@ -8190,6 +9810,8 @@ const tops = [
     style_two: "Cute",
     color_one: "White",
     color_two: "Purple",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "sailor's tee",
@@ -8200,6 +9822,8 @@ const tops = [
     style_two: "Cute",
     color_one: "White",
     color_two: "Brown",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "samurai shirt",
@@ -8210,6 +9834,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "White",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "samurai shirt",
@@ -8220,6 +9846,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Black",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "samurai shirt",
@@ -8230,6 +9858,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Red",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "samurai shirt",
@@ -8240,6 +9870,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Orange",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "samurai shirt",
@@ -8250,6 +9882,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Blue",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "Santa coat",
@@ -8260,6 +9894,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "school jacket",
@@ -8270,6 +9906,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Black",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "school jacket",
@@ -8280,6 +9918,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "White",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "school jacket",
@@ -8290,6 +9930,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Gray",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "school jacket",
@@ -8300,6 +9942,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Red",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "school jacket",
@@ -8310,6 +9954,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Green",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "school jacket",
@@ -8320,6 +9966,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "school jacket",
@@ -8330,6 +9978,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Purple",
     color_two: "Purple",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sea captain's coat",
@@ -8340,6 +9990,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Black",
     color_two: "Yellow",
+    source: "Gullivarrr",
+    season: "All Year",
   },
   {
     name: "sea captain's coat",
@@ -8350,6 +10002,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Red",
     color_two: "Yellow",
+    source: "Gullivarrr",
+    season: "All Year",
   },
   {
     name: "sea captain's coat",
@@ -8360,6 +10014,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Blue",
     color_two: "Yellow",
+    source: "Gullivarrr",
+    season: "All Year",
   },
   {
     name: "sea hanten shirt",
@@ -8370,6 +10026,8 @@ const tops = [
     style_two: "Active",
     color_one: "Aqua",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "sea hanten shirt",
@@ -8380,6 +10038,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "seven-ball tee",
@@ -8390,6 +10050,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Brown",
     color_two: "White",
+    source: "Nook Shopping Daily Selection",
+    season: "All Year",
   },
   {
     name: "shirt with camera",
@@ -8400,6 +10062,8 @@ const tops = [
     style_two: "Active",
     color_one: "Black",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "shirt with camera",
@@ -8410,6 +10074,8 @@ const tops = [
     style_two: "Active",
     color_one: "Aqua",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "short peacoat",
@@ -8420,6 +10086,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Gray",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "short peacoat",
@@ -8430,6 +10098,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Black",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "short peacoat",
@@ -8440,6 +10110,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Pink",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "short peacoat",
@@ -8450,6 +10122,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Orange",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "short peacoat",
@@ -8460,6 +10134,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "short peacoat",
@@ -8470,6 +10146,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "short peacoat",
@@ -8480,6 +10158,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Beige",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "short-sleeve dress shirt",
@@ -8490,6 +10170,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "short-sleeve dress shirt",
@@ -8500,6 +10182,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Red",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "short-sleeve dress shirt",
@@ -8510,6 +10194,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Yellow",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "short-sleeve dress shirt",
@@ -8520,6 +10206,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "short-sleeve dress shirt",
@@ -8530,6 +10218,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "silk floral-print shirt",
@@ -8540,6 +10230,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Gray",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "silk floral-print shirt",
@@ -8550,6 +10242,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Pink",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "silk floral-print shirt",
@@ -8560,6 +10254,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Orange",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "silk floral-print shirt",
@@ -8570,6 +10266,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Yellow",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "silk floral-print shirt",
@@ -8580,6 +10278,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Green",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "silk floral-print shirt",
@@ -8590,6 +10290,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Blue",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "silk floral-print shirt",
@@ -8600,6 +10302,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Purple",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "silk shirt",
@@ -8610,6 +10314,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Black",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "silk shirt",
@@ -8620,6 +10326,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Red",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "silk shirt",
@@ -8630,6 +10338,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Orange",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "silk shirt",
@@ -8640,6 +10350,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Green",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "silk shirt",
@@ -8650,6 +10362,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Blue",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "simple knit sweater",
@@ -8660,6 +10374,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "simple knit sweater",
@@ -8670,6 +10386,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Black",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "simple knit sweater",
@@ -8680,6 +10398,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Orange",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "simple parka",
@@ -8690,6 +10410,8 @@ const tops = [
     style_two: "Active",
     color_one: "Gray",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "simple parka",
@@ -8700,6 +10422,8 @@ const tops = [
     style_two: "Active",
     color_one: "Black",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "simple parka",
@@ -8710,6 +10434,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "simple parka",
@@ -8720,6 +10446,8 @@ const tops = [
     style_two: "Active",
     color_one: "Pink",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "simple parka",
@@ -8730,6 +10458,8 @@ const tops = [
     style_two: "Active",
     color_one: "Yellow",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "simple parka",
@@ -8740,6 +10470,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "simple parka",
@@ -8750,6 +10482,8 @@ const tops = [
     style_two: "Active",
     color_one: "Aqua",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "simple parka",
@@ -8760,6 +10494,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "simple-dots tee",
@@ -8770,6 +10506,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Black",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "simple-dots tee",
@@ -8780,6 +10518,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Red",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "simple-dots tee",
@@ -8790,6 +10530,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Yellow",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "simple-dots tee",
@@ -8800,6 +10542,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "simple-dots tee",
@@ -8810,6 +10554,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Aqua",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "six-ball tee",
@@ -8820,6 +10566,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "White",
+    source: "Nook Shopping Daily Selection",
+    season: "All Year",
   },
   {
     name: "skiwear",
@@ -8830,6 +10578,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "skiwear",
@@ -8840,6 +10590,8 @@ const tops = [
     style_two: "Active",
     color_one: "Pink",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "skiwear",
@@ -8850,6 +10602,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "skiwear",
@@ -8860,6 +10614,8 @@ const tops = [
     style_two: "Active",
     color_one: "Aqua",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "skiwear",
@@ -8870,6 +10626,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "skiwear",
@@ -8880,6 +10638,8 @@ const tops = [
     style_two: "Active",
     color_one: "Purple",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "skull tee",
@@ -8890,6 +10650,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Black",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "skull tee",
@@ -8900,6 +10662,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Purple",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "skull tee",
@@ -8910,6 +10674,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Beige",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "sleeved apron",
@@ -8920,6 +10686,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Pink",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sleeved apron",
@@ -8930,6 +10698,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Orange",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sleeved apron",
@@ -8940,6 +10710,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sleeved apron",
@@ -8950,6 +10722,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Aqua",
     color_two: "Brown",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sleeved apron",
@@ -8960,6 +10734,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Purple",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sleeveless dress shirt",
@@ -8970,6 +10746,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "sleeveless dress shirt",
@@ -8980,6 +10758,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Pink",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "sleeveless dress shirt",
@@ -8990,6 +10770,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Orange",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "sleeveless dress shirt",
@@ -9000,6 +10782,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "sleeveless dress shirt",
@@ -9010,6 +10794,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Aqua",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "sleeveless parka",
@@ -9020,6 +10806,8 @@ const tops = [
     style_two: "Active",
     color_one: "Black",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "sleeveless parka",
@@ -9030,6 +10818,8 @@ const tops = [
     style_two: "Active",
     color_one: "Pink",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "sleeveless parka",
@@ -9040,6 +10830,8 @@ const tops = [
     style_two: "Active",
     color_one: "Orange",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "sleeveless parka",
@@ -9050,6 +10842,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "sleeveless parka",
@@ -9060,6 +10854,8 @@ const tops = [
     style_two: "Active",
     color_one: "Purple",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "sleeveless tunic",
@@ -9070,6 +10866,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "White",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "sleeveless tunic",
@@ -9080,6 +10878,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Yellow",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "sleeveless tunic",
@@ -9090,6 +10890,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Green",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "sleeveless tunic",
@@ -9100,6 +10902,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "sleeveless tunic",
@@ -9110,6 +10914,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Purple",
     color_two: "Purple",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "sleeveless tunic",
@@ -9120,6 +10926,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Beige",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "snowflake sweater",
@@ -9130,6 +10938,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Aqua",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "snowflake sweater",
@@ -9140,6 +10950,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Blue",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "snowy sweater",
@@ -9150,6 +10962,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Gray",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "snowy sweater",
@@ -9160,6 +10974,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Black",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "snowy sweater",
@@ -9170,6 +10986,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Blue",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "soccer-uniform top",
@@ -9180,6 +10998,8 @@ const tops = [
     style_two: "Active",
     color_one: "White",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "soccer-uniform top",
@@ -9190,6 +11010,8 @@ const tops = [
     style_two: "Active",
     color_one: "Black",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "soccer-uniform top",
@@ -9200,6 +11022,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "soccer-uniform top",
@@ -9210,6 +11034,8 @@ const tops = [
     style_two: "Active",
     color_one: "Orange",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "soccer-uniform top",
@@ -9220,6 +11046,8 @@ const tops = [
     style_two: "Active",
     color_one: "Yellow",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "soccer-uniform top",
@@ -9230,6 +11058,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "soccer-uniform top",
@@ -9240,6 +11070,8 @@ const tops = [
     style_two: "Active",
     color_one: "Aqua",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "soccer-uniform top",
@@ -9250,6 +11082,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "space parka",
@@ -9260,6 +11094,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Blue",
     color_two: "Purple",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "space parka",
@@ -9270,6 +11106,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Purple",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sparkly embroidered tank",
@@ -9280,6 +11118,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "White",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "sparkly embroidered tank",
@@ -9290,6 +11130,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "White",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "sparkly embroidered tank",
@@ -9300,6 +11142,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "White",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "spider-web tee",
@@ -9310,6 +11154,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Black",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "sports tank",
@@ -9320,6 +11166,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sports tank",
@@ -9330,6 +11178,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sports tank",
@@ -9340,6 +11190,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sports tank",
@@ -9350,6 +11202,8 @@ const tops = [
     style_two: "Active",
     color_one: "Pink",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sports tank",
@@ -9360,6 +11214,8 @@ const tops = [
     style_two: "Active",
     color_one: "Yellow",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sports tank",
@@ -9370,6 +11226,8 @@ const tops = [
     style_two: "Active",
     color_one: "Orange",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sports tank",
@@ -9380,6 +11238,8 @@ const tops = [
     style_two: "Active",
     color_one: "Purple",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sports tank",
@@ -9390,6 +11250,8 @@ const tops = [
     style_two: "Active",
     color_one: "Black",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "staff uniform",
@@ -9400,6 +11262,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Pink",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "staff uniform",
@@ -9410,6 +11274,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Yellow",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "staff uniform",
@@ -9420,6 +11286,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "starry tank",
@@ -9430,6 +11298,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "Colorful",
+    source: "Nook Shopping Daily Selection",
+    season: "Summer",
   },
   {
     name: "striped shirt",
@@ -9440,6 +11310,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Red",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "striped shirt",
@@ -9450,6 +11322,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Yellow",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "striped shirt",
@@ -9460,6 +11334,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "striped shirt",
@@ -9470,6 +11346,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Aqua",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "striped shirt",
@@ -9480,6 +11358,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "striped shirt",
@@ -9490,6 +11370,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Purple",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "striped tank",
@@ -9500,6 +11382,8 @@ const tops = [
     style_two: "Active",
     color_one: "Gray",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "striped tank",
@@ -9510,6 +11394,8 @@ const tops = [
     style_two: "Active",
     color_one: "Black",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "striped tank",
@@ -9520,6 +11406,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "striped tank",
@@ -9530,6 +11418,8 @@ const tops = [
     style_two: "Active",
     color_one: "Pink",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "striped tank",
@@ -9540,6 +11430,8 @@ const tops = [
     style_two: "Active",
     color_one: "Orange",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "striped tank",
@@ -9550,6 +11442,8 @@ const tops = [
     style_two: "Active",
     color_one: "Yellow",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "striped tank",
@@ -9560,6 +11454,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "striped tank",
@@ -9570,6 +11466,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "striped tee",
@@ -9580,6 +11478,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "striped tee",
@@ -9590,6 +11490,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Red",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "striped tee",
@@ -9600,6 +11502,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "striped tee",
@@ -9610,6 +11514,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "striped tee",
@@ -9620,6 +11526,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Purple",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "striped tee",
@@ -9630,6 +11538,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Beige",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "sushi chef's outfit",
@@ -9640,6 +11550,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sushi chef's outfit",
@@ -9650,6 +11562,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Black",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sweater on shirt",
@@ -9660,6 +11574,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sweater on shirt",
@@ -9670,6 +11586,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sweater on shirt",
@@ -9680,6 +11598,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sweater on shirt",
@@ -9690,6 +11610,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sweater on shirt",
@@ -9700,6 +11622,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sweater-vest",
@@ -9710,6 +11634,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "White",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sweater-vest",
@@ -9720,6 +11646,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Gray",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sweater-vest",
@@ -9730,6 +11658,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Blue",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sweater-vest",
@@ -9740,6 +11670,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Beige",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sweatshirt",
@@ -9750,6 +11682,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Gray",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sweatshirt",
@@ -9760,6 +11694,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Red",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sweatshirt",
@@ -9770,6 +11706,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Yellow",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sweatshirt",
@@ -9780,6 +11718,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sweatshirt",
@@ -9790,6 +11730,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sweatshirt",
@@ -9800,6 +11742,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Purple",
     color_two: "Purple",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sweetheart tank and shirt",
@@ -9810,6 +11754,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Gray",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sweetheart tank and shirt",
@@ -9820,6 +11766,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Pink",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sweetheart tank and shirt",
@@ -9830,6 +11778,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Orange",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sweetheart tank and shirt",
@@ -9840,6 +11790,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "sweetheart tank and shirt",
@@ -9850,6 +11802,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "tailcoat",
@@ -9860,6 +11814,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "White",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "tailcoat",
@@ -9870,6 +11826,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Black",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "tailored jacket",
@@ -9880,6 +11838,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Gray",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "tailored jacket",
@@ -9890,6 +11850,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Black",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "tailored jacket",
@@ -9900,6 +11862,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "tailored jacket",
@@ -9910,6 +11874,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Blue",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "tailored jacket",
@@ -9920,6 +11886,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Beige",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "tank",
@@ -9930,6 +11898,8 @@ const tops = [
     style_two: "Active",
     color_one: "White",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "tank",
@@ -9940,6 +11910,8 @@ const tops = [
     style_two: "Active",
     color_one: "Black",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "tank",
@@ -9950,6 +11922,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "tank",
@@ -9960,6 +11934,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "tank",
@@ -9970,6 +11946,8 @@ const tops = [
     style_two: "Active",
     color_one: "Brown",
     color_two: "Brown",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "tee-parka combo",
@@ -9980,6 +11958,8 @@ const tops = [
     style_two: "Active",
     color_one: "Pink",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "tee-parka combo",
@@ -9990,6 +11970,8 @@ const tops = [
     style_two: "Active",
     color_one: "Orange",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "tee-parka combo",
@@ -10000,6 +11982,8 @@ const tops = [
     style_two: "Active",
     color_one: "Yellow",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "tee-parka combo",
@@ -10010,6 +11994,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "tee-parka combo",
@@ -10020,6 +12006,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "tennis sweater",
@@ -10030,6 +12018,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "White",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "tennis sweater",
@@ -10040,6 +12030,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Red",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "tennis sweater",
@@ -10050,6 +12042,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Green",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "tennis sweater",
@@ -10060,6 +12054,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Brown",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "terry-cloth nightgown",
@@ -10070,6 +12066,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Pink",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "terry-cloth nightgown",
@@ -10080,6 +12078,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Orange",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "terry-cloth nightgown",
@@ -10090,6 +12090,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Yellow",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "terry-cloth nightgown",
@@ -10100,6 +12102,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "terry-cloth nightgown",
@@ -10110,6 +12114,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "terry-cloth nightgown",
@@ -10120,6 +12126,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Aqua",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "terry-cloth nightgown",
@@ -10130,6 +12138,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Blue",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "terry-cloth nightgown",
@@ -10140,6 +12150,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Purple",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "text shirt",
@@ -10150,6 +12162,8 @@ const tops = [
     style_two: "Cool",
     color_one: "White",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "text shirt",
@@ -10160,6 +12174,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Black",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "text shirt",
@@ -10170,8 +12186,9 @@ const tops = [
     style_two: "Cool",
     color_one: "Red",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
-
   {
     name: "thick-stripes shirt",
     imageUrl: "/images/tops/thick-stripes shirt/Navy & gray/Storage Image.png",
@@ -10181,6 +12198,8 @@ const tops = [
     style_two: "Active",
     color_one: "Gray",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "thick-stripes shirt",
@@ -10191,6 +12210,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "thick-stripes shirt",
@@ -10202,6 +12223,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "thick-stripes shirt",
@@ -10213,6 +12236,8 @@ const tops = [
     style_two: "Active",
     color_one: "Yellow",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "thick-stripes shirt",
@@ -10223,6 +12248,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "thick-stripes shirt",
@@ -10234,6 +12261,8 @@ const tops = [
     style_two: "Active",
     color_one: "Aqua",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "thick-stripes shirt",
@@ -10245,6 +12274,8 @@ const tops = [
     style_two: "Active",
     color_one: "Purple",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "thick-stripes shirt",
@@ -10255,6 +12286,8 @@ const tops = [
     style_two: "Active",
     color_one: "Beige",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "thief's costume",
@@ -10265,6 +12298,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Black",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "thread-worn sweater",
@@ -10275,6 +12310,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Black",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "thread-worn sweater",
@@ -10285,6 +12322,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Pink",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "thread-worn sweater",
@@ -10295,6 +12334,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "thread-worn sweater",
@@ -10305,6 +12346,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Beige",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "three-ball tee",
@@ -10315,6 +12358,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Red",
     color_two: "White",
+    source: "Nook Shopping Daily Selection",
+    season: "All Year",
   },
   {
     name: "tie-dye shirt",
@@ -10325,6 +12370,8 @@ const tops = [
     style_two: "Active",
     color_one: "Colorful",
     color_two: "Colorful",
+    source: "Nook Shopping Daily Selection",
+    season: "All Year",
   },
   {
     name: "tiger jacket",
@@ -10335,6 +12382,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "tight-knit sweater",
@@ -10345,6 +12394,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Gray",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "tight-knit sweater",
@@ -10355,6 +12406,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Black",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "tight-knit sweater",
@@ -10365,6 +12418,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Beige",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "top coat",
@@ -10375,6 +12430,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Pink",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "top coat",
@@ -10385,6 +12442,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Aqua",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "top coat",
@@ -10395,6 +12454,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Brown",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "top coat",
@@ -10405,6 +12466,8 @@ const tops = [
     style_two: "Cute",
     color_one: "Beige",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "track jacket",
@@ -10415,6 +12478,8 @@ const tops = [
     style_two: "Active",
     color_one: "White",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "track jacket",
@@ -10425,6 +12490,8 @@ const tops = [
     style_two: "Active",
     color_one: "Gray",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "track jacket",
@@ -10435,6 +12502,8 @@ const tops = [
     style_two: "Active",
     color_one: "Orange",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "track jacket",
@@ -10445,6 +12514,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "track jacket",
@@ -10455,6 +12526,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "track jacket",
@@ -10465,6 +12538,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "track jacket",
@@ -10475,6 +12550,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "traditional straw coat",
@@ -10485,6 +12562,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Beige",
     color_two: "Beige",
+    source: "Crafting",
+    season: "All Year",
   },
   {
     name: "tree sweater",
@@ -10495,6 +12574,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Beige",
     color_two: "Green",
+    source: "Nook Shopping Daily Selection",
+    season: "Winter",
   },
   {
     name: "trench coat",
@@ -10505,6 +12586,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Red",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "trench coat",
@@ -10515,6 +12598,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Orange",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "trench coat",
@@ -10525,6 +12610,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Aqua",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "trench coat",
@@ -10535,6 +12622,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "trench coat",
@@ -10545,6 +12634,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Beige",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "tube top",
@@ -10555,6 +12646,8 @@ const tops = [
     style_two: "Active",
     color_one: "Black",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "tube top",
@@ -10565,6 +12658,8 @@ const tops = [
     style_two: "Active",
     color_one: "Red",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "tube top",
@@ -10575,6 +12670,8 @@ const tops = [
     style_two: "Active",
     color_one: "Orange",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "tube top",
@@ -10585,6 +12682,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "tube top",
@@ -10595,6 +12694,8 @@ const tops = [
     style_two: "Active",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "tube top",
@@ -10605,6 +12706,8 @@ const tops = [
     style_two: "Active",
     color_one: "Purple",
     color_two: "Purple",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "tube top",
@@ -10615,6 +12718,8 @@ const tops = [
     style_two: "Active",
     color_one: "Brown",
     color_two: "Brown",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "tunic tank",
@@ -10625,6 +12730,8 @@ const tops = [
     style_two: "Cool",
     color_one: "White",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "tunic tank",
@@ -10635,6 +12742,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Pink",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "tunic tank",
@@ -10645,6 +12754,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Yellow",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "tunic tank",
@@ -10655,6 +12766,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Green",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "tuxedo jacket",
@@ -10665,6 +12778,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "White",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "tuxedo jacket",
@@ -10675,6 +12790,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Gray",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "tuxedo jacket",
@@ -10685,6 +12802,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Black",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "tweed jacket",
@@ -10695,6 +12814,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Red",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "tweed jacket",
@@ -10705,6 +12826,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Pink",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "tweed jacket",
@@ -10715,6 +12838,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Green",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "tweed jacket",
@@ -10725,6 +12850,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Blue",
     color_two: "Yellow",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "tweed jacket",
@@ -10735,6 +12862,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Brown",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "tweed jacket",
@@ -10745,6 +12874,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Beige",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "tweed vest",
@@ -10755,6 +12886,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Red",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "tweed vest",
@@ -10765,6 +12898,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "tweed vest",
@@ -10775,6 +12910,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "two-ball tee",
@@ -10785,6 +12922,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "White",
+    source: "Nook Shopping Daily Selection",
+    season: "All Year",
   },
   {
     name: "V-neck sweater",
@@ -10795,6 +12934,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Black",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "V-neck sweater",
@@ -10805,6 +12946,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Red",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "V-neck sweater",
@@ -10815,6 +12958,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "vampire costume",
@@ -10825,6 +12970,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Black",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "vampire costume",
@@ -10835,6 +12982,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Purple",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "vertical-stripes shirt",
@@ -10845,6 +12994,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Gray",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "vertical-stripes shirt",
@@ -10855,6 +13006,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Pink",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "vertical-stripes shirt",
@@ -10865,6 +13018,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Orange",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "vertical-stripes shirt",
@@ -10875,6 +13030,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "vertical-stripes shirt",
@@ -10885,6 +13042,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "vertical-stripes shirt",
@@ -10895,6 +13054,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Purple",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "vertical-stripes shirt",
@@ -10905,6 +13066,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Beige",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Summer",
   },
   {
     name: "vest with binoculars",
@@ -10915,6 +13078,8 @@ const tops = [
     style_two: "Active",
     color_one: "Beige",
     color_two: "Blue",
+    source: "Nook Shopping Daily Selection",
+    season: "All Year",
   },
   {
     name: "viking top",
@@ -10925,6 +13090,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Gray",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "viking top",
@@ -10935,6 +13102,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Blue",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "viking top",
@@ -10945,6 +13114,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Brown",
     color_two: "Gray",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "waistcoat",
@@ -10955,6 +13126,8 @@ const tops = [
     style_two: "Cool",
     color_one: "White",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "waistcoat",
@@ -10965,6 +13138,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Gray",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "waistcoat",
@@ -10975,6 +13150,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Black",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "waistcoat",
@@ -10985,6 +13162,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Blue",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "waistcoat",
@@ -10995,6 +13174,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Beige",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "western shirt",
@@ -11005,6 +13186,8 @@ const tops = [
     style_two: "Active",
     color_one: "Black",
     color_two: "Brown",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "western shirt",
@@ -11015,6 +13198,8 @@ const tops = [
     style_two: "Active",
     color_one: "Pink",
     color_two: "Brown",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "western shirt",
@@ -11025,6 +13210,8 @@ const tops = [
     style_two: "Active",
     color_one: "Yellow",
     color_two: "Brown",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "western shirt",
@@ -11035,6 +13222,8 @@ const tops = [
     style_two: "Active",
     color_one: "Aqua",
     color_two: "Brown",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "work apron",
@@ -11045,6 +13234,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Green",
     color_two: "White",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "work apron",
@@ -11055,6 +13246,8 @@ const tops = [
     style_two: "Cool",
     color_one: "Brown",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "work shirt",
@@ -11065,6 +13258,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "Black",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "work shirt",
@@ -11075,6 +13270,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "work shirt",
@@ -11085,6 +13282,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "work shirt",
@@ -11095,6 +13294,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "work shirt",
@@ -11106,6 +13307,8 @@ const tops = [
     style_two: "Simple",
     color_one: "White",
     color_two: "Purple",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "worker's jacket",
@@ -11116,6 +13319,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Aqua",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "worker's jacket",
@@ -11126,6 +13331,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Blue",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "worker's jacket",
@@ -11136,6 +13343,8 @@ const tops = [
     style_two: "Simple",
     color_one: "Beige",
     color_two: "Beige",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "workout top",
@@ -11146,6 +13355,8 @@ const tops = [
     style_two: "Active",
     color_one: "Black",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "workout top",
@@ -11156,6 +13367,8 @@ const tops = [
     style_two: "Active",
     color_one: "Black",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "workout top",
@@ -11166,6 +13379,8 @@ const tops = [
     style_two: "Active",
     color_one: "Black",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "yodel cardigan",
@@ -11176,6 +13391,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Red",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "yodel cardigan",
@@ -11186,6 +13403,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Yellow",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "yodel cardigan",
@@ -11196,6 +13415,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Aqua",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "yodel cardigan",
@@ -11206,6 +13427,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Blue",
     color_two: "White",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "yodel cardigan",
@@ -11216,6 +13439,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Blue",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "yodel cardigan",
@@ -11226,6 +13451,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Beige",
     color_two: "Brown",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "yodel sweater",
@@ -11236,6 +13463,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Red",
     color_two: "Aqua",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "yodel sweater",
@@ -11246,6 +13475,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Orange",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "yodel sweater",
@@ -11256,6 +13487,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Green",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "yodel sweater",
@@ -11266,6 +13499,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Blue",
     color_two: "Purple",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "yodel sweater",
@@ -11276,6 +13511,8 @@ const tops = [
     style_two: "Elegant",
     color_one: "Brown",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "Winter",
   },
   {
     name: "young-royal shirt",
@@ -11286,6 +13523,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "White",
     color_two: "Green",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "young-royal shirt",
@@ -11296,6 +13535,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Black",
     color_two: "Red",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "young-royal shirt",
@@ -11306,6 +13547,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Pink",
     color_two: "Pink",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "young-royal shirt",
@@ -11316,6 +13559,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Yellow",
     color_two: "Orange",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "young-royal shirt",
@@ -11326,6 +13571,8 @@ const tops = [
     style_two: "Gorgeous",
     color_one: "Aqua",
     color_two: "Blue",
+    source: "Able Sisters",
+    season: "All Year",
   },
   {
     name: "zigzag shirt",
@@ -11336,6 +13583,8 @@ const tops = [
     style_two: "Active",
     color_one: "Green",
     color_two: "Red",
+    source: "Nook Shopping Daily Selection",
+    season: "All Year",
   },
 ];
 

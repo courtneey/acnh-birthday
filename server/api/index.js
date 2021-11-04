@@ -85,6 +85,8 @@ const TopType = new GraphQLObjectType({
     style_two: { type: GraphQLNonNull(GraphQLString) },
     color_one: { type: GraphQLNonNull(GraphQLString) },
     color_two: { type: GraphQLNonNull(GraphQLString) },
+    source: { type: GraphQLNonNull(GraphQLString) },
+    season: { type: GraphQLNonNull(GraphQLString) },
   }),
 });
 

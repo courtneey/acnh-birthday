@@ -26,6 +26,12 @@ const Tops = db.define("tops", {
   color_two: {
     type: Sequelize.STRING,
   },
+  source: {
+    type: Sequelize.STRING,
+  },
+  season: {
+    type: Sequelize.STRING,
+  },
 });
 
 module.exports = Tops;
