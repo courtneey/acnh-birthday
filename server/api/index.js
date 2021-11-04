@@ -23,6 +23,52 @@ const VillagerType = new GraphQLObjectType({
     style_two: { type: GraphQLNonNull(GraphQLString) },
     color_one: { type: GraphQLNonNull(GraphQLString) },
     color_two: { type: GraphQLNonNull(GraphQLString) },
+    fave_tops_style: {
+      type: new GraphQLList(TopType),
+      resolve: async (villager) => {
+        const tops = await Tops.findAll({
+          where: {
+            [Op.and]: [
+              {
+                style_one: {
+                  [Op.eq]: villager.style_one,
+                },
+              },
+              {
+                style_two: {
+                  [Op.eq]: villager.style_two,
+                },
+              },
+            ],
+          },
+        });
+
+        return tops;
+      },
+    },
+    fave_tops_color: {
+      type: new GraphQLList(TopType),
+      resolve: async (villager) => {
+        const tops = await Tops.findAll({
+          where: {
+            [Op.and]: [
+              {
+                color_one: {
+                  [Op.eq]: villager.color_one,
+                },
+              },
+              {
+                color_two: {
+                  [Op.eq]: villager.color_two,
+                },
+              },
+            ],
+          },
+        });
+
+        return tops;
+      },
+    },
   }),
 });
 

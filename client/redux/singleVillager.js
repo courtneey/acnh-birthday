@@ -15,14 +15,30 @@ export const fetchVillager = (id) => {
       const query = `
       {
         singleVillager(id: ${id}) {
-        id
-        name
-        imageUrl
-        birthday
-        style_one
-        style_two
-        color_one
-        color_two
+          id
+          name
+          imageUrl
+          birthday
+          style_one
+          style_two
+          color_one
+          color_two
+          fave_tops_style {
+            id
+            name
+            imageUrl
+            price
+            style_one
+            style_two
+          }
+          fave_tops_color {
+            id
+            name
+            imageUrl
+            price
+            color_one
+            color_two
+          }
         }
       }
       `;
