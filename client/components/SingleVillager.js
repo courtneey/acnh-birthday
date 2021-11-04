@@ -30,6 +30,7 @@ class SingleVillager extends Component {
       <div className="villager-and-tops">
         <img src={villager.imageUrl} className="villager-img" />
         <h2 className="villager-name">{villager.name}</h2>
+        <div className="villager-bday">Birthday: {villager.birthday}</div>
         <div className="tops-outer-container">
           <div className="tops-container">
             <div className="tops-title">

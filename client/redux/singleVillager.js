@@ -18,6 +18,7 @@ export const fetchVillager = (id) => {
         id
         name
         imageUrl
+        birthday
         style_one
         style_two
         color_one

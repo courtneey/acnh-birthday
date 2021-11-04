@@ -201,3 +201,14 @@ a:visited {
 p {
   font-family: "system-ui";
 }
+
+.villager-bday {
+  background-color: white;
+  padding: 10px 20px 10px 20px;
+  border-radius: 5px;
+  font-family: "system-ui";
+  color: #6b5c43;
+  font-weight: 500;
+  margin-top: -20px;
+  margin-bottom: 20px;
+}
