@@ -4751,16 +4751,6 @@ const tops = [
     color_two: "Blue",
   },
   {
-    name: "Hello Kitty tee",
-    imageUrl: "/images/tops/Hello Kitty tee/Storage Image.png",
-    variation: "NA",
-    price: 1000,
-    style_one: "Cute",
-    style_two: "Cute",
-    color_one: "Blue",
-    color_two: "White",
-  },
-  {
     name: "hello tee",
     imageUrl: "/images/tops/hello tee/Storage Image.png",
     variation: "NA",
