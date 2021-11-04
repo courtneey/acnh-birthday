@@ -36,15 +36,19 @@ class SingleVillager extends Component {
               Favorite Colors: {villager.color_one} and {villager.color_two}
             </div>
 
-            <div>
-              {topsByColor.map((top) => {
-                return (
-                  <span key={top.id}>
-                    <img src={top.imageUrl} className="list-item-img" />
-                    {/* <span className="overlay">{top.price}</span> */}
-                  </span>
-                );
-              })}
+            <div className="tops-list">
+              {topsByColor.length ? (
+                topsByColor.map((top) => {
+                  return (
+                    <span key={top.id}>
+                      <img src={top.imageUrl} className="list-item-img" />
+                      {/* <span className="overlay">{top.price}</span> */}
+                    </span>
+                  );
+                })
+              ) : (
+                <p>No matches!</p>
+              )}
             </div>
           </div>
           <div className="tops-container">
@@ -52,15 +56,19 @@ class SingleVillager extends Component {
               Favorite Styles: {villager.style_one} and {villager.style_two}
             </div>
 
-            <div>
-              {topsByStyle.map((top) => {
-                return (
-                  <span key={top.id}>
-                    <img src={top.imageUrl} className="list-item-img" />
-                    {/* <span className="overlay">{top.price}</span> */}
-                  </span>
-                );
-              })}
+            <div className="tops-list">
+              {topsByStyle.length ? (
+                topsByStyle.map((top) => {
+                  return (
+                    <span key={top.id}>
+                      <img src={top.imageUrl} className="list-item-img" />
+                      {/* <span className="overlay">{top.price}</span> */}
+                    </span>
+                  );
+                })
+              ) : (
+                <p>No matches!</p>
+              )}
             </div>
           </div>
         </div>

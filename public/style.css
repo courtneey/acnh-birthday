@@ -102,7 +102,7 @@ select {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-evenly;
-  gap: 50px;
+  gap: 30px;
   border-radius: 10px;
 }
 
@@ -186,4 +186,16 @@ a:visited {
   border-radius: 65px;
   width: 120px;
   height: 120px;
+}
+
+.tops-list {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+p {
+  font-family: "system-ui";
 }
