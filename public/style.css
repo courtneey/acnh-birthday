@@ -172,8 +172,10 @@ a:visited {
 
 .villager-name {
   background-color: white;
-  padding: 10px 20px 10px 20px;
-  border-radius: 5px;
+  padding: 0px 25px 0px 25px;
+  border-radius: 10px;
+  text-align: center;
+  margin-top: 20px;
 }
 
 .villager-img {
@@ -203,12 +205,8 @@ p {
 }
 
 .villager-bday {
-  background-color: white;
-  padding: 10px 20px 10px 20px;
-  border-radius: 5px;
   font-family: "system-ui";
   color: #6b5c43;
   font-weight: 500;
-  margin-top: -20px;
-  margin-bottom: 20px;
+  margin-top: -10px;
 }
