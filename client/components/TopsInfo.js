@@ -3,20 +3,35 @@ import React from "react";
 const TopsInfo = (props) => {
   const { topColor } = props;
   const { topStyle } = props;
+  let imageUrl, name, price, source, season;
+
+  if (topColor) {
+    imageUrl = topColor.imageUrl;
+    name = topColor.name;
+    price = topColor.price;
+    source = topColor.source;
+    season = topColor.season;
+  } else {
+    imageUrl = topStyle.imageUrl;
+    name = topStyle.name;
+    price = topStyle.price;
+    source = topStyle.source;
+    season = topStyle.season;
+  }
+
+  name = name
+    .split(" ")
+    .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+    .join(" ");
 
   return (
     <div className="tops-popup-info">
-      {topColor ? (
-        <img src={topColor.imageUrl} />
-      ) : (
-        <img src={topStyle.imageUrl} />
-      )}
-      <p>{topColor ? topColor.name : topStyle.name}</p>
+      <img src={imageUrl} />
+      <p>{name}</p>
       <div className="tops-description">
-        If you find this for sale, you can buy it for{" "}
-        {topColor ? topColor.price : topStyle.price} bells. You should be able
-        to get one from {topColor ? topColor.source : topStyle.source}, and it
-        has {topColor ? topColor.season : topStyle.season} availability.
+        If you find this for sale, you can buy it for <b>{price}</b> bells. You
+        can get one from <b>{source}</b>, and it has <b>{season}</b>{" "}
+        availability.
       </div>
     </div>
   );
