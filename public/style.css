@@ -155,3 +155,35 @@ a:visited {
   gap: 50px;
   margin-bottom: 100px;
 }
+
+.overlay {
+  position: absolute;
+  font-size: 28px;
+  background-color: white;
+  border-radius: 3px;
+  z-index: 1;
+  margin-left: -95px;
+  margin-top: 40px;
+  width: 60px;
+  padding: 2px;
+}
+
+.villager-name {
+  background-color: white;
+  padding: 10px 20px 10px 20px;
+  border-radius: 5px;
+}
+
+.villager-img {
+  background-color: white;
+  border-radius: 100px;
+  padding: 20px;
+  width: 130px;
+}
+
+.list-item-img {
+  background-color: #f6f6f6;
+  border-radius: 65px;
+  width: 120px;
+  height: 120px;
+}

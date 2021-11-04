@@ -25,10 +25,11 @@ class SingleVillager extends Component {
 
   render() {
     const { villager, topsByColor, topsByStyle } = this.props;
+
     return (
       <div className="villager-and-tops">
-        <img src={villager.imageUrl} style={{ width: 150 }} />
-        <h2>{villager.name}</h2>
+        <img src={villager.imageUrl} className="villager-img" />
+        <h2 className="villager-name">{villager.name}</h2>
         <div className="tops-outer-container">
           <div className="tops-container">
             <div className="tops-title">
@@ -39,7 +40,8 @@ class SingleVillager extends Component {
               {topsByColor.map((top) => {
                 return (
                   <span key={top.id}>
-                    <img src={top.imageUrl} />
+                    <img src={top.imageUrl} className="list-item-img" />
+                    {/* <span className="overlay">{top.price}</span> */}
                   </span>
                 );
               })}
@@ -54,7 +56,8 @@ class SingleVillager extends Component {
               {topsByStyle.map((top) => {
                 return (
                   <span key={top.id}>
-                    <img src={top.imageUrl} />
+                    <img src={top.imageUrl} className="list-item-img" />
+                    {/* <span className="overlay">{top.price}</span> */}
                   </span>
                 );
               })}

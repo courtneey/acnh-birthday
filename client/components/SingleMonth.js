@@ -22,7 +22,7 @@ class SingleMonth extends Component {
             return (
               <p key={villager.id} className="single-villager">
                 <Link to={`/villagers/${villager.id}`}>
-                  <img src={villager.imageUrl} />
+                  <img src={villager.imageUrl} className="list-item-img" />
                 </Link>
                 {villager.name}
               </p>
